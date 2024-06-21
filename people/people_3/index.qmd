@@ -1,0 +1,9 @@
+---
+title: "Cumbito"
+description: "I am a researcher focused on pheasant and squirrel ecology, exploring their behavior, especially their escape response time. I am also specialized in solving optimization problems, particularly those aimed at finding the best solutions for treat acquisition. "
+date: "2019"
+categories: [st3]
+priority: 3
+---
+
+![](cumbi.png)
