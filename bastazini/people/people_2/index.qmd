@@ -1,9 +1,0 @@
----
-title: "Talita Menger"
-description: "Visiting PhD"
-date: "2022"
-categories: [st2]
-priority: 3
----
-
-![](Tali.png)
