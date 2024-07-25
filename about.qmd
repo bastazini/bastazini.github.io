@@ -1,5 +1,5 @@
 ---
-title: "Vinicius Augusto Galvão Bastazini"
+title: "Education"
 image: prof.png
 about:
   id: hero-heading

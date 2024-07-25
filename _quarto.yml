@@ -12,6 +12,7 @@ website:
       - people.qmd
       - projects.qmd
       - professional.qmd
+      - talks.qmd
       - media.qmd
 
 format:
