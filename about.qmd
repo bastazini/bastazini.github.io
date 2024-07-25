@@ -1,0 +1,44 @@
+---
+title: "Vinicius Augusto Galvão Bastazini"
+image: prof.png
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rectangle
+  links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://ecoevo.social/@Bastazini
+    - icon: github
+      text: Github
+      href: https://github.com/bastazini
+---
+
+::: {#hero-heading}
+
+I am a researcher at University of Evora, Portugal, and my main interest lies in understanding the interplay between ecological and evolutionary dynamics and its consequences to patterns of biological diversity and species interactions.
+
+
+## Education 
+University of Lisbon| Lisbon, Portugal
+
+PhD in Ecology |  2019
+
+Federal University of Rio Grande do Sul| Porto Alegre, Brazil
+
+PhD in Ecology |  2015
+
+Federal University of Rio Grande do Sul| Porto Alegre, Brazil
+
+Master's in Ecology |  2011
+
+Catholic University of Pelotas| Pelotas, Portugal
+
+BSc in Ecology |  2009
+
+## Expertise
+
+Biogeography, Community Ecology, Conservation Biology, Complex Networks, Evolutionary Ecology, Functional Ecology. 
+
+:::
+
