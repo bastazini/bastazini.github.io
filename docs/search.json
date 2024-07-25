@@ -16,9 +16,9 @@
   {
     "objectID": "talks.html",
     "href": "talks.html",
-    "title": "Talks",
+    "title": "Invited Talks",
     "section": "",
-    "text": "2023 Climate change: Re-shuffling Darwin’s Tangled Bank. Pedagogical and Technological University of Colombia, Colombia\n2022 Climate change: Re-shuffling the Tangled Bank. Institute of Geography and Spatial Planning, University of Lisbon, Portugal"
+    "text": "2023\nClimate change: Re-shuffling Darwin’s Tangled Bank\nPedagogical and Technological University of Colombia, Tunja, Colombia\n2022\nClimate change: Re-shuffling the Tangled Bank\nInstitute of Geography and Spatial Planning - University of Lisbon, Lisbon, Portugal\n2022\nUnderstanding the responses of mutualistic networks to climate change through the lens of evolutionary history\nNorwegian Institute for Nature Research, Torgarden, Norway\n2020\nEcological networks\nDepartment of Ecology – Federal University of Rio Grande do Sul, Porto Alegre, Brazil\n2020\nTrait redundancy and the Structure and Stability of Mutualistic Networks: An Evolutionary approach\nEmílio Goeldi Museum, Belém do Para, Brazil\n2020\nClimate Change: Re-shuffling the tangled bank\nDepartment of Biology, Federal Institute Farroupilha, Santa Maria, Brazil\n2020\nClimate-driven phenological shifts and the future of mutualist networks\nGraduate Program in Animal Biology – Federal University of Pelotas, Pelotas, Brazil\n2020\nClimate-driven phenological shifts and the eco-evolutionary dynamics of mutualistic networks\nDepartment of Animal Biology – Federal University of Rio Grande do Sul, Porto Alegre, Brazil\n2018\nTrait redundancy and the Structure and Stability of Mutualistic Networks\nUniversity of Valencia, Valencia, Spain\n2018\nUntangling the Tangled Bank: Phylogenetic- and Trait-based approaches in Network ecology\nUniversity of Lisbon, Lisbon, Portugal\n2018\nUntangling the Tangled Bank: Phylogenetic- and Trait-based approaches in Network ecology\nHigher Institute of Agronomy, Lisbon, Portugal\n2017\nMerging phylogenetic- and trait-based approaches into Network Ecology\nSwansea University, Swansea, Wales\n2016\nCoextinction and robustness in mutualistic networks: eco-evolutionary dynamics and patterns\nDepartment of Ecology – Federal University of Rio Grande do Sul, Porto Alegre, Brazil\n2016\nCoextinction and robustness in mutualistic networks: eco-evolutionary dynamics and patterns\nDepartment of Ecology – University of Vale dos Sinos, São Leopoldo, Brazil\n2016\nUntangling the tangled bank: a novel method for partitioning the effects of phylogenies and traits on ecological networks\nUniversity of São Paulo, São Paulo, Brazil\n2015\nCoextinction and robustness in mutualistic networks\nDepartment of Animal Biology – Federal University of Rio Grande do Sul, Porto Alegre, Brazil\n2012\nUntangling the tangled bank: evolutionary and ecological components in interaction networks\nI International Seminar of Ecological Research and Education, Pelotas, Brazil\n2011\nSpecies detectability in mastozoology: Implications and analytical solutions\nEconsciência Institute, Viamão, Brazil\n2011\nConsiderations on the use of camera traps in conservation biology\nFederal University of Rio Grande do Sul/ Curicaca Institute, Porto Alegre, Brazil\n2010\nIndependent and shared effects of area and habitat driving avian community structure in the São Gonçalo Channel\nCatholic University of Pelotas, Pelotas, Brazil"
   },
   {
     "objectID": "projects.html",
@@ -32,14 +32,21 @@
     "href": "index.html",
     "title": "Vinicius Bastazini",
     "section": "",
-    "text": "Mastodon\n  \n  \n    \n     Research Gate\n  \n  \n    \n     Github\n  \n  \n    \n     Google Scholar\n  \n\n  \n  \nI am an ecologist, currently working at the Mediterranean Institute for Agriculture, Environment and Development at the University of Evora. I have a broad (and when I say broad, I mean broad!) interest in Ecology, Evolutionary Biology and Conservation Biology, but my main interest lies in understanding the interplay between ecological and evolutionary dynamics and its consequences to patterns of biological diversity and species interactions. I address these kinds of questions by combining aspects of phylogenetics, network and functional ecology, using species traits as a biological building block to understand eco-evolutionary dynamics and their consequences to ecological communities and ecosystems services.\n“What physicists view as noise is music to the ecologist” (Daniel Symberloff. 1980)"
+    "text": "Mastodon\n  \n  \n    \n     Research Gate\n  \n  \n    \n     Github\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     Email\n  \n\n  \n  \nI am an ecologist, currently working at the Mediterranean Institute for Agriculture, Environment and Development at the University of Evora. I have a broad (and when I say broad, I mean broad!) interest in Ecology, Evolutionary Biology and Conservation Biology, but my main interest lies in understanding the interplay between ecological and evolutionary dynamics and its consequences to patterns of biological diversity and species interactions. I address these kinds of questions by combining aspects of phylogenetics, network and functional ecology, using species traits as a biological building block to understand eco-evolutionary dynamics and their consequences to ecological communities and ecosystems services.\n“What physicists view as noise is music to the ecologist” (Daniel Symberloff. 1980)"
   },
   {
     "objectID": "media.html",
     "href": "media.html",
-    "title": "Media",
+    "title": "Blogs and Media Coverage",
     "section": "",
-    "text": "In progress!"
+    "text": "I am a maintainer and contributor to the blog Geekcologist: Ecology and Modelling and I have also contributed to various other blogs.\n\n2024\nR-bloggers\nVisualizing Power Models in Species-Area Relationships Using R Shiny: An Interactive Educational Tool\n2024\nR-bloggers\nSimple and Fast Visualization of Biodiversity Occurrence Data using GBIF and R Shiny\n2023\nR-bloggers\nSimulating Phylogenetically Structured Networks\n2023\nMagazine Naturae Digital\nO “Príncipe dos Observadores” e o primeiro modelo matemático de evolução\n2022\nTransport Ecology\nSteps to improve connectivity consideration in EIAs for road projects\n2021\nR-bloggers\nDarwin to the Rescue: Using Phylogenetic Information to Overcome the Raunkiaeran Shortfall\n2019\nMethods in Ecology and Evolution\nReconnecting the Web of Life: Rewiring and Network Robustness"
+  },
+  {
+    "objectID": "media.html#media-coverage",
+    "href": "media.html#media-coverage",
+    "title": "Blogs and Media Coverage",
+    "section": "Media Coverage",
+    "text": "Media Coverage\n\n2024\nEurekAlert\nHeat-sensitive trees move uphill seeking climate change respite\n2024\nPhysOrg\nHeat-sensitive trees moving uphill due to rising temperatures, study finds\n2024\nTech Explorit\nHeat-sensitive trees move upwards to escape rising temperatures\n2024\nThe Debrief\nTrees are now moving due to climate change, but it’s not the first time\n2024\nEarth.com\nTrees are relocating in a race against global warming\n2024\nInteresting Engineering\nForests in Brazil are migrating uphill to escape rising temperatures\n2024\nTech Times\nBrazilian Forests, Trees Literally Move to Avoid Global Warming\n2024\nFolha de São Paulo\nÁrvores da mata atlântica ‘migram’ morro acima fugindo do calor, diz estudo\n2024\nO Eco\nA gangorra climática das árvores da Mata Atlântica\n2024\nJournal de Brasília\nÁrvores da mata atlântica ‘migram’ morro acima fugindo do calor, diz estudo\n2024\nCorreio Brasiliense\nMata Atlântica: árvores estão migrando em busca de clima mais favorável\n2024\nO Povo\nMudanças climáticas: em busca de fugir do calor, árvores da Mata Atlântica estão ‘migrando’ para regiões mais altas"
   },
   {
     "objectID": "publications.html",
@@ -58,16 +65,16 @@
   {
     "objectID": "people.html",
     "href": "people.html",
-    "title": "People",
+    "title": "Mentoring",
     "section": "",
-    "text": "Talita Menger\n2023 Visiting PhD student (Brazil)) Conectivity analyses\n\n\n\n\n\n\nCumbi\n2019 - Present\nI am a researcher focused on pheasant and squirrel ecology, exploring their behavior, especially their escape response time. I am also specialized in solving optimization problems, particularly those aimed at finding the best solutions for treat acquisition."
+    "text": "Bibiana Terra Dasoler\n2022-2023\nI am a PhD candidate in Brazil aiming to explore different approaches to improve the planning and evaluation of mitigation measures in roads and railways. My interests involve applied ecology, landscape ecology, animal movement, and biodiversity conservation.\n\n\n\n\n\n\nCumbi\n2019 - Present\nI am a researcher focused on pheasant and squirrel ecology, exploring their behavior, especially their escape response time. I am also specialized in solving optimization problems, particularly those aimed at finding the best solutions for treat acquisition."
   },
   {
     "objectID": "professional.html",
     "href": "professional.html",
     "title": "Professional Experience",
     "section": "",
-    "text": "2015 PhD in Ecology* | Federal University of Rio Grande do Sul, Brazil\nValidated by the University of Lisbon, Portugal (2019)\n2011 Master’s in Ecology | Federal University of Rio Grande do Sul, Brazil\n2009 BSc in Ecology, Catholic University of Pelotas, Brazil"
+    "text": "2015 PhD in Ecology* | Federal University of Rio Grande do Sul, Brazil\n\n*Validated by the University of Lisbon, Portugal (2019)\n\n2011 Master’s in Ecology | Federal University of Rio Grande do Sul, Brazil\n2009 BSc in Ecology, Catholic University of Pelotas, Brazil"
   },
   {
     "objectID": "professional.html#professional-experience",

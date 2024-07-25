@@ -1,5 +1,5 @@
 ---
-title: "People"
+title: "Mentoring"
 format:
   html:
     theme: cosmo
@@ -8,21 +8,10 @@ format:
 
 ::: {.columns}
 :::: {.column width="60%"}
-**Bibiana Terra Dasoler**  
-**2022-2023** Visiting Phd Student (Brazil) 
-In my PhD I aim to explore different approaches to improve the planning of mitigation measures to reduce fatalities in roads and railways. I intend to identify the locations to implement these measures in dynamic landscapes and in new infrastructures when we do not have fatalities data.
-::::
+[**Talita Menger**](https://www.researchgate.net/profile/Talita-Menger)  
+**2023**  
 
-:::: {.column width="40%"}
-<img src="Bibs.png" alt="Bibiana Terra Dasoler" style="width:100%; max-width:150px;">
-::::
-:::
-
-::: {.columns}
-:::: {.column width="60%"}
-**Talita Menger**  
-**2023**  Visiting PhD student (Brazil))
-Conectivity analyses
+Developing connectivity analyses absed on bayesian models and graph theory
 ::::
 
 :::: {.column width="40%"}
@@ -30,10 +19,26 @@ Conectivity analyses
 ::::
 :::
 
+
+::: {.columns}
+:::: {.column width="60%"}
+**[Bibiana Terra Dasoler](https://scholar.google.com.br/citations?user=MjogPDwAAAAJ&hl=pt-BR)**  
+**2022-2023**  
+
+I am a PhD candidate in Brazil aiming to explore different approaches to improve the planning and evaluation of mitigation measures in roads and railways. My interests involve applied ecology, landscape ecology, animal movement, and biodiversity conservation.
+::::
+
+:::: {.column width="40%"}
+<img src="Bibs.png" alt="Bibiana Terra Dasoler" style="width:100%; max-width:150px;">
+::::
+:::
+
+
 ::: {.columns}
 :::: {.column width="60%"}
 **Cumbi**  
 **2019 - Present**  
+
 I am a researcher focused on pheasant and squirrel ecology, exploring their behavior, especially their escape response time. I am also specialized in solving optimization problems, particularly those aimed at finding the best solutions for treat acquisition.
 ::::
 
