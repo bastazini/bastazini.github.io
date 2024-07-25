@@ -36,3 +36,8 @@ title: "Professional Experience"
 
 - **2008-2009**  
   **Research Fellow** | *Federal University of Rio Grande do Sul*, Brazil
+  
+  ## Member of Editorial Board
+
+- **2023 - present**  
+  **Functional Ecology** (Associate Editor)
