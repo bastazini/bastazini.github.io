@@ -11,7 +11,7 @@ format:
 [**Talita Menger**](https://www.researchgate.net/profile/Talita-Menger)  
 **2023**  
 
-Developing connectivity analyses absed on bayesian models and graph theory
+Developing a state-of-the-art modeling framework utilizing Bayesian hierarchical modeling and graph-based connectivity analyses to understand the impact of linear infrastructures on wildlife.
 ::::
 
 :::: {.column width="40%"}
