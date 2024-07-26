@@ -2,20 +2,24 @@
 title: "Publications"
 ---
 
-- **In press** 
-Mestre, F., Quiles, P., **Bastazini, V. A. G.**, & Ascensão, F. **Road effects on biotic interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *Road Ecology: Synthesis and Perspectives*. Elsevier Science Publishing Co.
+## Preprints
 
-- **In press** 
-Gonçalves, M., **Bastazini, V. A. G.**, Andretti, C., Lanés, L. E., & Volcan, M. **Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil**. USEB Publishing Co.
+- **2024** 
+Mestre, F., Quiles, P., **Bastazini, V. A. G.**, & Ascensão, F. **[Wildlife-vehicle collisions simplify regional food webs]( https://doi.org/10.1101/2024.03.07.583843)**. **bioRxiv**
 
-- **In press** 
-**Bastazini, V. A. G.**, Gianuca, A. T., Vizentin-Bugoni, J., Gonçalves, M. S. S., & Dias, R. A. **Identificando o potencial de conservação de áreas úmidas usando ferramentas da teoria de redes complexas**. In M. Gonçalves, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB Publishing Co.
+## In press
 
-- **In press** 
-**Bastazini, V. A. G.**, Gonçalves, M., Lima, L. T., Andretti, C., Lanés, L. E., Volcan, M., & Milheira, R. G. **Ecossistemas Aquáticos do sul do Brasil: Contexto ambiental, histórico e desafios para a conservação. In M. Gonçalves**, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB Publishing Co.
+- Mestre, F., Quiles, P., **Bastazini, V. A. G.**, & Ascensão, F. **Road effects on biotic interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *Road Ecology: Synthesis and Perspectives*. Elsevier Science Publishing Co.
 
-- **In press** 
-Gonçalves, M. S., Pons, P., Bonow, F., **Bastazini**, V. A. G., Gil-Delgado, J., & Iborra, G. L. **A fragmentação afeta a dinâmica das populações do arredio-do-gravatá**. In M. Gonçalves, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB.
+- Gonçalves, M., **Bastazini, V. A. G.**, Andretti, C., Lanés, L. E., & Volcan, M. **Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil**. USEB Publishing Co.
+
+- **Bastazini, V. A. G.**, Gianuca, A. T., Vizentin-Bugoni, J., Gonçalves, M. S. S., & Dias, R. A. **Identificando o potencial de conservação de áreas úmidas usando ferramentas da teoria de redes complexas**. In M. Gonçalves, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB Publishing Co.
+
+- **Bastazini, V. A. G.**, Gonçalves, M., Lima, L. T., Andretti, C., Lanés, L. E., Volcan, M., & Milheira, R. G. **Ecossistemas Aquáticos do sul do Brasil: Contexto ambiental, histórico e desafios para a conservação. In M. Gonçalves**, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB Publishing Co.
+
+- Gonçalves, M. S., Pons, P., Bonow, F., **Bastazini**, V. A. G., Gil-Delgado, J., & Iborra, G. L. **A fragmentação afeta a dinâmica das populações do arredio-do-gravatá**. In M. Gonçalves, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. USEB.
+
+## Published
 
 - **2024** 
 Bergamin, R. S., **Bastazini, V. A. G.**, Esquivel-Muelbert, A., Bordin, K., Klipel, J., Debastiani, V., Vibrans, A., Loyola, R., & Müller, S. **[Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change](https://doi.org/10.1111/jvs.13289)**. **Journal of Vegetation Science**, 35(4), e13289.
@@ -27,7 +31,7 @@ Biz, L., **Bastazini, V. A. G.**, & Carvalho, F., Pereira, M. J. R. **[Network a
 **Bastazini, V. A. G.**, Debastiani, V., Cappelatti, L., Guimarães, P., & Pillar, V. P. **[The role of evolutionary modes for trait-based cascades in mutualistic networks](https://doi.org/10.1016/j.ecolmodel.2022.109983)**. **Ecological Modelling**, 470, 109983.
 
 - **2022**
-Galiana, N., Lurgi, M., **Bastazini, V. A. G.**, Bosch, J., Cagnolo, L., Cazelles, K., Claramunt-López, B., Emer, C., Fortin, M., Grass, I., Hernández-Castellano, C., Jauker, F., Leroux, S. J., McCann, K., McLeod, A. M., Montoya, D., Mulder, C., Osorio-Canadas, S., Reverté, S., Rodrigo, A., Steffan-Dewenter, I., Traveset, A., Valverde, S., Vázquez, D. P., Wood, S. A., Gravel, D., Roslin, T., Thuiller, W., & Montoya, J. M. **[Ecological network complexity scales with area](https://www.nature.com/articles/s41559-021-01644-4)**. **Nature Ecology and Evolution*, 6, 307–314.
+Galiana, N., Lurgi, M., **Bastazini, V. A. G.**, Bosch, J., Cagnolo, L., Cazelles, K., Claramunt-López, B., Emer, C., Fortin, M., Grass, I., Hernández-Castellano, C., Jauker, F., Leroux, S. J., McCann, K., McLeod, A. M., Montoya, D., Mulder, C., Osorio-Canadas, S., Reverté, S., Rodrigo, A., Steffan-Dewenter, I., Traveset, A., Valverde, S., Vázquez, D. P., Wood, S. A., Gravel, D., Roslin, T., Thuiller, W., & Montoya, J. M. **[Ecological network complexity scales with area](https://www.nature.com/articles/s41559-021-01644-4)**. **Nature Ecology and Evolution**, 6, 307–314.
 
 - **2022**
 Bergamin, R. S., Ascensão, F., Capinha, C., **Bastazini**, V. A. G., Andrade, B. O., Boldrini, I. I., Lezama, F., Altesor, A., Perelman, S., & Overbeck, G. E. **[Native and alien grassland diversity respond differently to environmental and anthropogenic drivers across spatial scales]( https://doi.org/10.1111/jvs.13133)**. **Journal of Vegetation Science**, 33(3), e13133.
@@ -54,13 +58,13 @@ Vizentin-Bugoni, J., Debastiani, V. J., **Bastazini, V. A. G.**, Maruyama, P. K.
 Nagy-Reis, M. B., [...], **Bastazini, V. A. G.**, et al. **[NEOTROPICAL CARNIVORES: a dataset of occurrence of carnivores in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3128)**. **Ecology**, 101(11), e03128.
 
 - **2020**
-Rosas, C., [...], **Bastazini, V. A. G.**, et al. [NEO**TROPICAL ALIEN MAMMALS: a dataset of occurrence and abundance of alien mammals in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3115)**. **Ecology**, 101(11), e03115.
+Rosas, C., [...], **Bastazini, V. A. G.**, et al. **[NEOTROPICAL ALIEN MAMMALS: a dataset of occurrence and abundance of alien mammals in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3115)**. **Ecology**, 101(11), e03115.
 
 - **2019**
 **Bastazini, V. A. G.**, Debastiani, V., Azambuja, B., Guimarães, P., & Pillar, V. (2019). **[Loss of generalist plant species and functional diversity decreases the robustness of a seed dispersal network](https://doi.org/10.1017/S0376892918000334)**. **Environmental Conservation**, 46(1), 52-58.
 
 - **2019**
-Santos, P., [...], Bastazini, V. A. G., et al. **[NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2663)**. **Ecology*, 100(7), e02663.
+Santos, P., [...], Bastazini, V. A. G., et al. **[NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2663)**. **Ecology**, 100(7), e02663.
 
 - **2018**
 Casas, G., **Bastazini, V. A. G.**, Debastiani, V. J., & Pillar, V. D. P. (2018). **[Assessing sampling sufficiency of network metrics using bootstrap](https://doi.org/10.1016/j.ecocom.2018.09.005)**. **Ecological Complexity**, 36, 268-275.
