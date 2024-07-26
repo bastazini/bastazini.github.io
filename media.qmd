@@ -4,7 +4,7 @@ title: "Blogs and Media Coverage"
 
 ## Blogging
 
-I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)** and I have also contributed to various other blogs. 
+I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media.  
 
 - **2024**  
   **R-bloggers**  
@@ -36,6 +36,8 @@ I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Model
 
 ## Media Coverage
 
+Below, you can find some of the latest coverage in the media about our work.
+
 - **2024**  
   **EurekAlert**  
   [Heat-sensitive trees move uphill seeking climate change respite](https://www.eurekalert.org/news-releases/1052114)
@@ -45,7 +47,7 @@ I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Model
   [Heat-sensitive trees moving uphill due to rising temperatures, study finds](https://phys.org/news/2024-07-sensitive-trees-uphill-due-temperatures.html)
 
 - **2024**  
-  **Tech Explorit**  
+  **Tech Explorist**  
   [Heat-sensitive trees move upwards to escape rising temperatures](https://www.techexplorist.com/heat-sensitive-trees-move-upwards-escape-rising-temperatures/86436/)
 
 - **2024**  

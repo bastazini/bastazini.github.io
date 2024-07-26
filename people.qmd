@@ -5,11 +5,12 @@ format:
     theme: cosmo
     toc: true
 ---
+## Current Students
 
 ::: {.columns}
 :::: {.column width="60%"}
 [**Talita Menger**](https://www.researchgate.net/profile/Talita-Menger)  
-**2023**  
+**2023 - **  
 
 Developing a state-of-the-art modeling framework utilizing Bayesian hierarchical modeling and graph-based connectivity analyses to understand the impact of linear infrastructures on wildlife.
 ::::
@@ -23,7 +24,7 @@ Developing a state-of-the-art modeling framework utilizing Bayesian hierarchical
 ::: {.columns}
 :::: {.column width="60%"}
 **[Bibiana Terra Dasoler](https://scholar.google.com.br/citations?user=MjogPDwAAAAJ&hl=pt-BR)**  
-**2022-2023**  
+**2022 - 2023**  
 
 I am a PhD candidate in Brazil aiming to explore different approaches to improve the planning and evaluation of mitigation measures in roads and railways. My interests involve applied ecology, landscape ecology, animal movement, and biodiversity conservation.
 ::::
@@ -37,7 +38,7 @@ I am a PhD candidate in Brazil aiming to explore different approaches to improve
 ::: {.columns}
 :::: {.column width="60%"}
 **Cumbi**  
-**2019 - Present**  
+**2019 - **  
 
 I am a researcher focused on pheasant and squirrel ecology, exploring their behavior, especially their escape response time. I am also specialized in solving optimization problems, particularly those aimed at finding the best solutions for treat acquisition.
 ::::
@@ -46,3 +47,17 @@ I am a researcher focused on pheasant and squirrel ecology, exploring their beha
 <img src="Cumbi.png" alt="Cumbito" style="width:100%; max-width:150px;">
 ::::
 :::
+
+## Former Students
+
+- **Bruna de Castro Knopp**  
+  **2016 - 2018**  
+  Thesis - Master’s Degree in Animal Biology, Federal University of Pelotas. (Co-advisor). Relationship Between Wetland Area and Taxonomic, Functional and Phylogenetic Diversity of Birds in Southern Brazil.
+  
+- **Timóteo Matthias Rico**  
+  **2014**  
+  Monograph - Specialization in Conservation Biology, Catholic University of Pelotas. **Data Mining Applied to Conservation Biology: A case study on the extinction risk of mammals from Rio Grande do Sul.**
+  
+- **Diogo Maia Gräbin**  
+  **2012**  
+  Monograph – Bachelor’s Degree in Biology, Federal University of Rio Grande do Sul. **Density and Spatial Distribution of Rhea americana in Different Physiognomies of the Pantanal of Nhecolândia.**

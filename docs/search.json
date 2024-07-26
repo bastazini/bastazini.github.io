@@ -39,14 +39,14 @@
     "href": "media.html",
     "title": "Blogs and Media Coverage",
     "section": "",
-    "text": "I am a maintainer and contributor to the blog Geekcologist: Ecology and Modelling and I have also contributed to various other blogs.\n\n2024\nR-bloggers\nVisualizing Power Models in Species-Area Relationships Using R Shiny: An Interactive Educational Tool\n2024\nR-bloggers\nSimple and Fast Visualization of Biodiversity Occurrence Data using GBIF and R Shiny\n2023\nR-bloggers\nSimulating Phylogenetically Structured Networks\n2023\nMagazine Naturae Digital\nO “Príncipe dos Observadores” e o primeiro modelo matemático de evolução\n2022\nTransport Ecology\nSteps to improve connectivity consideration in EIAs for road projects\n2021\nR-bloggers\nDarwin to the Rescue: Using Phylogenetic Information to Overcome the Raunkiaeran Shortfall\n2019\nMethods in Ecology and Evolution\nReconnecting the Web of Life: Rewiring and Network Robustness"
+    "text": "I am a maintainer and contributor to the blog Geekcologist: Ecology and Modelling. In addition, I have written for a number of different media.\n\n2024\nR-bloggers\nVisualizing Power Models in Species-Area Relationships Using R Shiny: An Interactive Educational Tool\n2024\nR-bloggers\nSimple and Fast Visualization of Biodiversity Occurrence Data using GBIF and R Shiny\n2023\nR-bloggers\nSimulating Phylogenetically Structured Networks\n2023\nMagazine Naturae Digital\nO “Príncipe dos Observadores” e o primeiro modelo matemático de evolução\n2022\nTransport Ecology\nSteps to improve connectivity consideration in EIAs for road projects\n2021\nR-bloggers\nDarwin to the Rescue: Using Phylogenetic Information to Overcome the Raunkiaeran Shortfall\n2019\nMethods in Ecology and Evolution\nReconnecting the Web of Life: Rewiring and Network Robustness"
   },
   {
     "objectID": "media.html#media-coverage",
     "href": "media.html#media-coverage",
     "title": "Blogs and Media Coverage",
     "section": "Media Coverage",
-    "text": "Media Coverage\n\n2024\nEurekAlert\nHeat-sensitive trees move uphill seeking climate change respite\n2024\nPhysOrg\nHeat-sensitive trees moving uphill due to rising temperatures, study finds\n2024\nTech Explorit\nHeat-sensitive trees move upwards to escape rising temperatures\n2024\nThe Debrief\nTrees are now moving due to climate change, but it’s not the first time\n2024\nEarth.com\nTrees are relocating in a race against global warming\n2024\nInteresting Engineering\nForests in Brazil are migrating uphill to escape rising temperatures\n2024\nTech Times\nBrazilian Forests, Trees Literally Move to Avoid Global Warming\n2024\nFolha de São Paulo\nÁrvores da mata atlântica ‘migram’ morro acima fugindo do calor, diz estudo\n2024\nO Eco\nA gangorra climática das árvores da Mata Atlântica\n2024\nJournal de Brasília\nÁrvores da mata atlântica ‘migram’ morro acima fugindo do calor, diz estudo\n2024\nCorreio Brasiliense\nMata Atlântica: árvores estão migrando em busca de clima mais favorável\n2024\nO Povo\nMudanças climáticas: em busca de fugir do calor, árvores da Mata Atlântica estão ‘migrando’ para regiões mais altas"
+    "text": "Media Coverage\nBelow, you can find some of the latest coverage in the media about our work.\n\n2024\nEurekAlert\nHeat-sensitive trees move uphill seeking climate change respite\n2024\nPhysOrg\nHeat-sensitive trees moving uphill due to rising temperatures, study finds\n2024\nTech Explorist\nHeat-sensitive trees move upwards to escape rising temperatures\n2024\nThe Debrief\nTrees are now moving due to climate change, but it’s not the first time\n2024\nEarth.com\nTrees are relocating in a race against global warming\n2024\nInteresting Engineering\nForests in Brazil are migrating uphill to escape rising temperatures\n2024\nTech Times\nBrazilian Forests, Trees Literally Move to Avoid Global Warming\n2024\nFolha de São Paulo\nÁrvores da mata atlântica ‘migram’ morro acima fugindo do calor, diz estudo\n2024\nO Eco\nA gangorra climática das árvores da Mata Atlântica\n2024\nJournal de Brasília\nÁrvores da mata atlântica ‘migram’ morro acima fugindo do calor, diz estudo\n2024\nCorreio Brasiliense\nMata Atlântica: árvores estão migrando em busca de clima mais favorável\n2024\nO Povo\nMudanças climáticas: em busca de fugir do calor, árvores da Mata Atlântica estão ‘migrando’ para regiões mais altas"
   },
   {
     "objectID": "publications.html",
@@ -67,7 +67,14 @@
     "href": "people.html",
     "title": "Mentoring",
     "section": "",
-    "text": "Bibiana Terra Dasoler\n2022-2023\nI am a PhD candidate in Brazil aiming to explore different approaches to improve the planning and evaluation of mitigation measures in roads and railways. My interests involve applied ecology, landscape ecology, animal movement, and biodiversity conservation.\n\n\n\n\n\n\nCumbi\n2019 - Present\nI am a researcher focused on pheasant and squirrel ecology, exploring their behavior, especially their escape response time. I am also specialized in solving optimization problems, particularly those aimed at finding the best solutions for treat acquisition."
+    "text": "Talita Menger\n2023 - \nDeveloping a state-of-the-art modeling framework utilizing Bayesian hierarchical modeling and graph-based connectivity analyses to understand the impact of linear infrastructures on wildlife.\n\n\n\n\n\n\nBibiana Terra Dasoler\n2022 - 2023\nI am a PhD candidate in Brazil aiming to explore different approaches to improve the planning and evaluation of mitigation measures in roads and railways. My interests involve applied ecology, landscape ecology, animal movement, and biodiversity conservation.\n\n\n\n\n\n\nCumbi\n2019 - \nI am a researcher focused on pheasant and squirrel ecology, exploring their behavior, especially their escape response time. I am also specialized in solving optimization problems, particularly those aimed at finding the best solutions for treat acquisition."
+  },
+  {
+    "objectID": "people.html#former-students",
+    "href": "people.html#former-students",
+    "title": "Mentoring",
+    "section": "Former Students",
+    "text": "Former Students\n\nBruna de Castro Knopp\n2016 - 2018\nThesis - Master’s Degree in Animal Biology, Federal University of Pelotas. (Co-advisor). Relationship Between Wetland Area and Taxonomic, Functional and Phylogenetic Diversity of Birds in Southern Brazil.\nTimóteo Matthias Rico\n2014\nMonograph - Specialization in Conservation Biology, Catholic University of Pelotas. Data Mining Applied to Conservation Biology: A case study on the extinction risk of mammals from Rio Grande do Sul.\nDiogo Maia Gräbin\n2012\nMonograph – Bachelor’s Degree in Biology, Federal University of Rio Grande do Sul. Density and Spatial Distribution of Rhea americana in Different Physiognomies of the Pantanal of Nhecolândia."
   },
   {
     "objectID": "professional.html",
@@ -81,6 +88,13 @@
     "href": "professional.html#professional-experience",
     "title": "Professional Experience",
     "section": "Professional Experience",
-    "text": "Professional Experience\n\n2021-Present\nJunior Researcher | University of Evora, Portugal\n2020\nPost-doctoral Researcher | Federal University of Rio Grande do Sul - Road and Railroad Ecology center, Brazil\n2017-2019\nPost-doctoral Researcher | French National Center for Scientific Research, France\n2016\nResearch Fellow | Federal University of Rio Grande do Sul - Laboratory of Quantitative Ecology, Brazil\n2013\nVisiting Professor Biostatistics | Catholic University of Pelotas (Specialization in Conservation Biology), Brazil\n2008-2009\nResearch Fellow | Catholic University of Pelotas, Brazil\n2008-2009\nResearch Fellow | Federal University of Rio Grande do Sul, Brazil\nMember of Editorial Board\n2023 - present\nFunctional Ecology (Associate Editor)"
+    "text": "Professional Experience\n\n2021-Present\nJunior Researcher | University of Evora, Portugal\n2020\nPost-doctoral Researcher | Federal University of Rio Grande do Sul - Road and Railroad Ecology center, Brazil\n2017-2019\nPost-doctoral Researcher | French National Center for Scientific Research, France\n2016\nResearch Fellow | Federal University of Rio Grande do Sul - Laboratory of Quantitative Ecology, Brazil\n2013\nVisiting Professor Biostatistics | Catholic University of Pelotas (Specialization in Conservation Biology), Brazil\n2008-2009\nResearch Fellow | Catholic University of Pelotas, Brazil\n2008-2009\nResearch Fellow | Federal University of Rio Grande do Sul, Brazil"
+  },
+  {
+    "objectID": "professional.html#member-of-editorial-board",
+    "href": "professional.html#member-of-editorial-board",
+    "title": "Professional Experience",
+    "section": "Member of Editorial Board",
+    "text": "Member of Editorial Board\n\n2023 - present\nFunctional Ecology (Associate Editor)"
   }
 ]
