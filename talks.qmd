@@ -2,83 +2,82 @@
 title: "Invited Talks"
 ---
 
-- **2023**  
-  **Cambios Climáticos: Re-enmarañando el enmarañado Darwiniano**  
-  *Pedagogical and Technological University of Colombia*, Tunja, Colombia
-  
+- **Cambios Climáticos: Re-enmarañando el enmarañado Darwiniano**  
+  *Pedagogical and Technological University of Colombia*, Tunja, Colombia  
+  **2023**
 
-- **2023**  
-  **Compreendendo as respostas das redes ecológicas às mudanças globais através das lentes da história evolutiva**  
+- **Compreendendo as respostas das redes ecológicas às mudanças globais através das lentes da história evolutiva**  
   *Mediterranean Institute for Agriculture, Environment and Development - University of Evora*, Evora, Portugal  
+  **2023**
 
-- **2022**  
-  **Understanding the responses of mutualistic networks to climate change through the lens of evolutionary history**  
-  *Norwegian Institute for Nature Research*, Torgarden, Norway
+- **Understanding the responses of mutualistic networks to climate change through the lens of evolutionary history**  
+  *Norwegian Institute for Nature Research*, Torgarden, Norway  
+  **2022**
 
-- **2020**  
-  **Ecological Networks**  
-  *Department of Ecology – Federal University of Rio Grande do Sul*, Porto Alegre, Brazil
-
-- **2020**  
-  **Estrutura e estabilidade de redes ecológicas: Uma abordagem filogenética**  
-  *Emílio Goeldi Museum*, Belém do Para, Brazil
-
-- **2020**  
-  **Mundanças Climáticas: Re-embaralhando o emanharado Darwiniano**  
-  *Department of Biology, Federal Institute Farroupilha*, Santa Maria, Brazil
-
-- **2020**  
-  **Alterações fenológicas orientadas pelo clima e a dinâmica eco-evolutiva de redes mutualistas**  
-  *Graduate Program in Animal Biology – Federal University of Pelotas*, Pelotas, Brazil
-
-- **2020**  
-  **Alterações fenológicas orientadas pelo clima e a dinâmica eco-evolutiva de redes mutualistas**  
-  *Department of Animal Biology – Federal University of Rio Grande do Sul*, Porto Alegre, Brazil  
-
-- **2018**  
-  **Functional Redundancy and the Structure and Stability of Mutualistic Networks**  
-  *University of Valencia*, Valencia, Spain  
-
-- **2018**  
-  **Untangling the Tangled Bank: Phylogenetic- and Trait-based approaches in Network ecology**  
-  *University of Lisbon*, Lisbon, Portugal  
-
-- **2018**  
-  **Untangling the Tangled Bank: Phylogenetic- and Trait-based approaches in Network ecology**  
-  *Higher Institute of Agronomy*, Lisbon, Portugal  
-
-- **2017**  
-  **Merging phylogenetic- and trait-based approaches into Network Ecology**  
-  *Swansea University*, Swansea, Wales  
-
-- **2016**  
-  **Coextinção e robustez em redes mutualísticas: padrões e processos eco-evolutivos**  
+- **Ecological Networks**  
   *Department of Ecology – Federal University of Rio Grande do Sul*, Porto Alegre, Brazil  
+  **2020**
 
-- **2016**  
-  **Coextinção e robustez em redes mutualísticas: padrões e processos eco-evolutivos**  
-  *Department of Ecology – University of Vale dos Sinos*, São Leopoldo, Brazil
+- **Estrutura e estabilidade de redes ecológicas: Uma abordagem filogenética**  
+  *Emílio Goeldi Museum*, Belém do Para, Brazil  
+  **2020**
 
-- **2016**  
-  **Desemaranhando o emaranhado Darwiniano: componentes ecológicos e evolutivos em redes de interação**  
-  *University of São Paulo*, São Paulo, Brazil
+- **Mundanças Climáticas: Re-embaralhando o emanharado Darwiniano**  
+  *Department of Biology, Federal Institute Farroupilha*, Santa Maria, Brazil  
+  **2020**
 
-- **2015**  
-  **Coextinção e robustez em redes mutualísticas**  
-  *Department of Animal Biology – Federal University of Rio Grande do Sul*, Porto Alegre, Brazil
+- **Alterações fenológicas orientadas pelo clima e a dinâmica eco-evolutiva de redes mutualistas**  
+  *Graduate Program in Animal Biology – Federal University of Pelotas*, Pelotas, Brazil  
+  **2020**
 
-- **2012**  
-  **Desemaranhando o emaranhado Darwiniano: componentes ecológicos e evolutivos em redes de interação**  
-  *I International Seminar of Ecological Research and Education*, Pelotas, Brazil
+- **Alterações fenológicas orientadas pelo clima e a dinâmica eco-evolutiva de redes mutualistas**  
+  *Department of Animal Biology – Federal University of Rio Grande do Sul*, Porto Alegre, Brazil  
+  **2020**
 
-- **2011**  
-  **Detectabilidade de espécies em mastozoologia: implicações e soluções analíticas**  
-  *Econsciência Institute*, Viamão, Brazil
+- **Functional Redundancy and the Structure and Stability of Mutualistic Networks**  
+  *University of Valencia*, Valencia, Spain  
+  **2018**
 
-- **2011**  
-  **Considerações sobre o uso de armadilhas fotográficas na biologia da conservação**  
-  *Federal University of Rio Grande do Sul/ Curicaca Institute*, Porto Alegre, Brazil
+- **Untangling the Tangled Bank: Phylogenetic- and Trait-based approaches in Network ecology**  
+  *University of Lisbon*, Lisbon, Portugal  
+  **2018**
 
-- **2010**  
-  **Efeitos independentes e compartilhados de área e habitat sobre a estrutura da comunidade de aves no Canal de São Gonçalo**  
-  *Catholic University of Pelotas*, Pelotas, Brazil
+- **Untangling the Tangled Bank: Phylogenetic- and Trait-based approaches in Network ecology**  
+  *Higher Institute of Agronomy*, Lisbon, Portugal  
+  **2018**
+
+- **Merging phylogenetic- and trait-based approaches into Network Ecology**  
+  *Swansea University*, Swansea, Wales  
+  **2017**
+
+- **Coextinção e robustez em redes mutualísticas: padrões e processos eco-evolutivos**  
+  *Department of Ecology – Federal University of Rio Grande do Sul*, Porto Alegre, Brazil  
+  **2016**
+
+- **Coextinção e robustez em redes mutualísticas: padrões e processos eco-evolutivos**  
+  *Department of Ecology – University of Vale dos Sinos*, São Leopoldo, Brazil  
+  **2016**
+
+- **Desemaranhando o emaranhado Darwiniano: componentes ecológicos e evolutivos em redes de interação**  
+  *University of São Paulo*, São Paulo, Brazil  
+  **2016**
+
+- **Coextinção e robustez em redes mutualísticas**  
+  *Department of Animal Biology – Federal University of Rio Grande do Sul*, Porto Alegre, Brazil  
+  **2015**
+
+- **Desemaranhando o emaranhado Darwiniano: componentes ecológicos e evolutivos em redes de interação**  
+  *I International Seminar of Ecological Research and Education*, Pelotas, Brazil  
+  **2012**
+
+- **Detectabilidade de espécies em mastozoologia: implicações e soluções analíticas**  
+  *Econsciência Institute*, Viamão, Brazil  
+  **2011**
+
+- **Considerações sobre o uso de armadilhas fotográficas na biologia da conservação**  
+  *Federal University of Rio Grande do Sul/ Curicaca Institute*, Porto Alegre, Brazil  
+  **2011**
+
+- **Efeitos independentes e compartilhados de área e habitat sobre a estrutura da comunidade de aves no Canal de São Gonçalo**  
+  *Catholic University of Pelotas*, Pelotas, Brazil  
+  **2010**
