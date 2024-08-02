@@ -31,6 +31,9 @@ I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Model
 
 Below, you can find some of the latest coverage in the media about our work.
 
+### In English  
+
+
 - **[Heat-sensitive trees move uphill seeking climate change respite](https://www.eurekalert.org/news-releases/1052114)**  
   *EurekAlert*. **2024**.
 
@@ -54,9 +57,14 @@ Below, you can find some of the latest coverage in the media about our work.
 
 - **[Brazilian Forests, Trees Literally Move to Avoid Global Warming](https://www.techtimes.com/articles/306838/20240724/brazilian-forests-trees-literally-move-avoid-global-warming.htm)**  
   *Tech Times*. **2024**.
+  
+###  In Portuguese  
 
 - **[Árvores da mata atlântica ‘migram’ morro acima fugindo do calor, diz estudo](https://www1.folha.uol.com.br/folha-social-mais/2024/07/arvores-da-mata-atlantica-migram-morro-acima-fugindo-do-calor-diz-estudo.shtml?utm_source=twitter&utm_medium=social&utm_campaign=twfolha&s=08)**  
   *Folha de São Paulo*. **2024**.
+
+- **[Clima mais quente faz até árvore fugir do calor, diz estudo.](https://www.estadao.com.br/ciencia/clima-arvores-calor-mata-atlantica-nprm/)**  
+  *O Estado de São Paulo*. **2024**.
 
 - **[A gangorra climática das árvores da Mata Atlântica](https://oeco.org.br/salada-verde/a-gangorra-climatica-das-arvores-da-mata-atlantica/?fbclid=IwZXh0bgNhZW0CMTEAAR1Hp-oxYDwStHj0pRMnNRBDK00dBsO3Z_VrrjkTDGMMTy96BgTZSITtn1o_aem_9WfJ1QVrUKgO8e5H-XFVQg)**  
   *O Eco*. **2024**.
@@ -69,3 +77,13 @@ Below, you can find some of the latest coverage in the media about our work.
 
 - **[Mudanças climáticas: em busca de fugir do calor, árvores da Mata Atlântica estão ‘migrando’ para regiões mais altas](https://www.opovo.com.br/noticias/brasil/2024/07/24/mudancas-climaticas-em-busca-de-fugir-do-calor-arvores-da-mata-atlantica-estao-migrando-para-regioes-mais-altas.html)**  
   *O Povo*. **2024**.
+  
+###  In French
+
+- **[Ces forêts ont stupéfié les scientifiques avec une réponse au danger qui remet en question tout ce que nous pensions savoir sur les arbres.](https://nouvelles-dujour.com/ces-forets-ont-stupefie-les-scientifiques-avec-une-reponse-au-danger-qui-remet-en-question-tout-ce-que-nous-pensions-savoir-sur-les-arbres/)**  
+  *Nouvelles du Jour*. **2024**.
+
+###  In Spanish
+
+- **[Los árboles sensibles al calor se desplazan hacia las alturas en busca de un respiro.](https://www.ecoportal.net/temas-especiales/cambio-climatico/los-arboles/)**  
+  *Ecoportal*. **2024**.
