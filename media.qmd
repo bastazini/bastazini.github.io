@@ -1,5 +1,5 @@
 ---
-title: "Blogs and Media Coverage"
+title: "Media"
 ---
 
 ## Blogging
@@ -60,6 +60,9 @@ Below, you can find some of the latest coverage in the media about our work.
   
 ###  In Portuguese  
 
+- **[Na Mata Atlântica, árvores jovens fogem do calor](https://revistapesquisa.fapesp.br/na-mata-atlantica-arvores-jovens-fogem-do-calor/)**  
+  *Revista FAPESP*. **2024**.
+
 - **[Por que árvores da Mata Atlântica estão mudando de lugar](https://www.nexojornal.com.br/expresso/2024/08/09/por-que-arvores-da-mata-atlantica-estao-mudando-de-lugar)**  
   *Nexo*. **2024**.
 
@@ -80,6 +83,9 @@ Below, you can find some of the latest coverage in the media about our work.
 
 - **[Mudanças climáticas: em busca de fugir do calor, árvores da Mata Atlântica estão ‘migrando’ para regiões mais altas](https://www.opovo.com.br/noticias/brasil/2024/07/24/mudancas-climaticas-em-busca-de-fugir-do-calor-arvores-da-mata-atlantica-estao-migrando-para-regioes-mais-altas.html)**  
   *O Povo*. **2024**.
+  
+- **[Pesquisa investiga funcionamento de ecossistemas em rios intermitentes](https://ufrn.br/imprensa/noticias/76527/pesquisa-investiga-funcionamento-de-ecossistemas-em-rios-intermitentes?fbclid=IwAR1a2RcVO0mQmtOLhT2RM3Wjozcr1WQvzQPfvfzMLInU2J4Er0Ox0rb6FpM)**  
+  *UFRN*. **2023**.
   
 ###  In French
 
