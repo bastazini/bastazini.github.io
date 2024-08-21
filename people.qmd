@@ -5,14 +5,14 @@ format:
     theme: cosmo
     toc: true
 ---
-## Current Students
+## Recent Students
 
 ::: {.columns}
 :::: {.column width="60%"}
-[**Talita Menger**](https://www.researchgate.net/profile/Talita-Menger)  
+[**Talita Menger**](https://scholar.google.com.br/citations?user=hCg7vwcAAAAJ&hl=pt-BR&oi=ao)  
 **2023 - **  
 
-Developing a state-of-the-art modeling framework utilizing Bayesian hierarchical modeling and graph-based connectivity analyses to understand the impact of linear infrastructures on wildlife.
+I am a PhD student in Brazil aiming to understand the impact of linear infrastructures on wildlife connectivity, exploring quantitative approaches to improve road planning and mitigation measures. My interests involve environmental impact assessment, animal movement, and biodiversity conservation.
 ::::
 
 :::: {.column width="40%"}
