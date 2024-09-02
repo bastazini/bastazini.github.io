@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Bastazini Lab"
+  title: "Bastazini"
   navbar:
     left:
       - href: index.qmd

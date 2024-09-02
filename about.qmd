@@ -16,7 +16,7 @@ about:
 
 ::: {#hero-heading}
 
-I am a researcher at University of Evora, Portugal, and my main interest lies in understanding the interplay between ecological and evolutionary dynamics and its consequences to patterns of biological diversity and species interactions.
+I am a researcher interested in understanding the interplay between ecological and evolutionary dynamics and its consequences to patterns of biological diversity and species interactions.
 
 
 ## Education 
