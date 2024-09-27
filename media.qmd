@@ -6,6 +6,9 @@ title: "Media"
 
 I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media.  
 
+- **[Estimating ecological network robustness with R: A functional approach](https://www.r-bloggers.com/2024/09/estimating-ecological-network-robustness-with-r-a-functional-approach/?fbclid=IwZXh0bgNhZW0CMTEAAR0q_4i0vXE10WFdKIU5ylnuEOUTGQKmMkcQKenOs1bvLG9i-yshfCw3d1c_aem_3IPw5i59S3Y2SWFEj_B76Q)**
+    *R-bloggers*. **2024**
+
 - **[Visualizing Power Models in Species-Area Relationships Using R Shiny: An Interactive Educational Tool](https://www.r-bloggers.com/2024/04/visualizing-power-models-in-species-area-relationships-using-r-shiny-an-interactive-educational-tool/)**
     *R-bloggers*. **2024**
 
