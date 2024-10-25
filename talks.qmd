@@ -2,6 +2,9 @@
 title: "Invited Talks"
 ---
 
+- **Coping with Collapse: How Functional Diversity, Evolutionary History, and Their Loss Shape Ecological Network Robustness**  
+  *University of Lille*, Lille, France **2024**
+
 - **Cambios Climáticos: Re-enmarañando el enmarañado Darwiniano**  
   *Pedagogical and Technological University of Colombia*, Tunja, Colombia. **2023**
 
