@@ -14,14 +14,6 @@ Mestre, F., **Bastazini, V. A. G.**, & Ascensão, F. **[Wildlife-vehicle collisi
 
 - Mestre, F., Quiles, P., **Bastazini, V. A. G.**, & Ascensão, F. **Road effects on biotic interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *Road Ecology: Synthesis and Perspectives*. Elsevier Science Publishing Co.
 
-- Gonçalves, M., **Bastazini, V. A. G.**, Andretti, C., Lanés, L. E., & Volcan, M. **Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil**. Editora USEB, 236p. ISBN: 978-85-89985-39-0
-
-- **Bastazini, V. A. G.**, Gonçalves, M., Lima, L. T., Andretti, C., Lanés, L. E., Volcan, M., & Milheira, R. G. **Ecossistemas Aquáticos do sul do Brasil: Contexto ambiental, histórico e desafios para a conservação. In M. Gonçalves**, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. Editora USEB,  pp.25-35. ISBN: 978-85-89985-39-0
-
-- Gonçalves, M. S., Pons, P., Bonow, F., **Bastazini**, V. A. G., Gil-Delgado, J., & Iborra, G. L. **A fragmentação afeta a dinâmica das populações do arredio-do-gravatá**. In M. Gonçalves, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. Editora USEB, pp.117-125. ISBN: 978-85-89985-39-0
-
-- **Bastazini, V. A. G.**, Gianuca, A. T., Vizentin-Bugoni, J., Gonçalves, M. S. S., & Dias, R. A. **Identificando o potencial de conservação de áreas úmidas usando ferramentas da teoria de redes complexas**. In M. Gonçalves, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. Editora USEB, pp.127-137. ISBN: 978-85-89985-39-0
-
 ## Published
 
 - **2024** 
@@ -29,6 +21,18 @@ Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B.,
 
 - **2024** 
 Bergamin, R. S., **Bastazini, V. A. G.**, Esquivel-Muelbert, A., Bordin, K., Klipel, J., Debastiani, V., Vibrans, A., Loyola, R., & Müller, S. **[Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change](https://doi.org/10.1111/jvs.13289)**. **Journal of Vegetation Science**, 35(4), e13289.
+
+- **2024** 
+Gonçalves, M., **Bastazini, V. A. G.**, Andretti, C., Lanés, L. E., & Volcan, M. **[Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil](https://www.researchgate.net/publication/385444484_ECOLOGIA_E_CONSERVACAO_DE_ECOSSISTEMAS_AQUATICOS_DO_SUL_DO_BRASIL)**. Editora USEB, 236p. ISBN: 978-85-89985-39-0
+
+- **2024** 
+**Bastazini, V. A. G.**, Gonçalves, M., Lima, L. T., Andretti, C., Lanés, L. E., Volcan, M., & Milheira, R. G. **[Ecossistemas Aquáticos do sul do Brasil: Contexto ambiental, histórico e desafios para a conservação](https://www.researchgate.net/publication/385444484_ECOLOGIA_E_CONSERVACAO_DE_ECOSSISTEMAS_AQUATICOS_DO_SUL_DO_BRASIL)**. In M. Gonçalves, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. Editora USEB,  pp.25-35. ISBN: 978-85-89985-39-0
+
+- **2024** 
+Gonçalves, M. S., Pons, P., Bonow, F., **Bastazini, V. A. G.**, Gil-Delgado, J., & Iborra, G. L. **[A fragmentação afeta a dinâmica das populações do arredio-do-gravatá](https://www.researchgate.net/publication/385444484_ECOLOGIA_E_CONSERVACAO_DE_ECOSSISTEMAS_AQUATICOS_DO_SUL_DO_BRASIL)**. In M. Gonçalves, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. Editora USEB, pp.117-125. ISBN: 978-85-89985-39-0
+
+- **2024** 
+**Bastazini, V. A. G.**, Gianuca, A. T., Vizentin-Bugoni, J., Gonçalves, M. S. S., & Dias, R. A. **[Identificando o potencial de conservação de áreas úmidas usando ferramentas da teoria de redes complexas](https://www.researchgate.net/publication/385444484_ECOLOGIA_E_CONSERVACAO_DE_ECOSSISTEMAS_AQUATICOS_DO_SUL_DO_BRASIL)**. In M. Gonçalves, **V. A. G. Bastazini**, C. Andretti, L. E. Lanés, & M. Volcan (Eds.), *Biodiversidade e conservação de ecossistemas aquáticos do sul do Brasil*. Editora USEB, pp.127-137. ISBN: 978-85-89985-39-0
 
 - **2023** 
 Biz, L., **Bastazini, V. A. G.**, & Carvalho, F., Pereira, M. J. R. **[Network and parasitological analyses reveal latitudinal gradient in bats-ectoparasitic flies interactions across the Neotropic](https://doi.org/10.1002/ece3.10527)**. **Ecology and Evolution**, 13(9), e10527.
