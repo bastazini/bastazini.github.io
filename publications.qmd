@@ -7,10 +7,9 @@ title: "Publications"
 - **2024** 
 Franz, I., Chiarini, E., **Bastazini, V. A. G.** et al. **[Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha]( https://doi.org/10.21203/rs.3.rs-4920772/v1)**. **Research Square**
 
-- **2024** 
-Mestre, F., **Bastazini, V. A. G.**, & Ascensão, F. **[Wildlife-vehicle collisions simplify regional food webs]( https://doi.org/10.1101/2024.03.07.583843)**. **bioRxiv**
-
 ## In press
+
+-  Mestre, F., **Bastazini, V. A. G.**, & Ascensão, F. **Road density simplifies regional food webs. Conservation Biology**. [Preprint at Biorxiv]( https://doi.org/10.1101/2024.03.07.583843).
 
 - Mestre, F., Quiles, P., **Bastazini, V. A. G.**, Ascensão, F. **Road effects on biotic interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *Road Ecology: Synthesis and Perspectives*. Springer.
 
