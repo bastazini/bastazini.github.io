@@ -4,8 +4,6 @@ title: "Publications"
 
 ## In press
 
-- Franz, I., Chiarini, E., **Bastazini, V. A. G.** , Boldrini, I. I., Fonatna, C. **Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha. Ornithology Research**. [Preprint at Research Square](https://doi.org/10.21203/rs.3.rs-4920772/v1).
-
 -  Mestre, F., **Bastazini, V. A. G.**, & Ascensão, F. **Road density simplifies regional food webs. Conservation Biology**. [Preprint at Biorxiv]( https://doi.org/10.1101/2024.03.07.583843).
 
 - Mestre, F., Quiles, P., **Bastazini, V. A. G.**, Ascensão, F. **Road effects on biotic interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *Road Ecology: Synthesis and Perspectives*. Springer.
@@ -15,6 +13,9 @@ title: "Publications"
 -  **Bastazini, V. A. G.**, Hofmann, G.S. **Southern Brazil’s 2024 floods: Causes, impacts, and how wetlands can help mitigate extreme climate disasters**.  **International Society of Limnology News.**
 
 ## Published
+
+- **2025**
+Franz, I., Chiarini, E., **Bastazini, V. A. G.** , Boldrini, I. I., Fonatna, C. **[Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha](https://link.springer.com/article/10.1007/s43388-024-00217-w). Ornithology Research** 33(12), 1-9.
 
 - **2024** 
 González-del-Pliego, P., Galiana, N., González-Trujillo, J. D., Mestre, F., Araújo, M. B., **Bastazini, V. A. G. [Are threatened species important for glueing interaction networks together?](https://www.sciencedirect.com/science/article/pii/S2530064424000531) Perspectives in Ecology and Conservation.**
