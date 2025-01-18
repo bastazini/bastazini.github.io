@@ -9,6 +9,9 @@ about:
     - icon: mastodon
       text: Mastodon
       href: https://ecoevo.social/@Bastazini
+    - icon: Bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/Bastazini.ecoevo.social.ap.brid.gy
     - icon: research-gate
       text: Research Gate
       href: https://www.researchgate.net/profile/Vinicius-Bastazini-2?ev=hdr_xprf
