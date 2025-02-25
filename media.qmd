@@ -9,13 +9,13 @@ I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Model
 - **[Estimating ecological network robustness with R: A functional approach](https://www.r-bloggers.com/2024/09/estimating-ecological-network-robustness-with-r-a-functional-approach/?fbclid=IwZXh0bgNhZW0CMTEAAR0q_4i0vXE10WFdKIU5ylnuEOUTGQKmMkcQKenOs1bvLG9i-yshfCw3d1c_aem_3IPw5i59S3Y2SWFEj_B76Q)**
     *R-bloggers*. **2024**
 
-- **[Visualizing Power Models in Species-Area Relationships Using R Shiny: An Interactive Educational Tool](https://www.r-bloggers.com/2024/04/visualizing-power-models-in-species-area-relationships-using-r-shiny-an-interactive-educational-tool/)**
+- **[Visualizing power models in species-area relationships using R shiny: An interactive educational tool](https://www.r-bloggers.com/2024/04/visualizing-power-models-in-species-area-relationships-using-r-shiny-an-interactive-educational-tool/)**
     *R-bloggers*. **2024**
 
-- **[Simple and Fast Visualization of Biodiversity Occurrence Data using GBIF and R Shiny](https://www.r-bloggers.com/2024/04/simple-and-fast-visualization-of-biodiversity-occurrence-data-using-gbif-and-r-shiny/)**  
+- **[Simple and fast visualization of biodiversity occurrence data using GBIF and R shiny](https://www.r-bloggers.com/2024/04/simple-and-fast-visualization-of-biodiversity-occurrence-data-using-gbif-and-r-shiny/)**  
   *R-bloggers*. **2024**.
 
-- **[Simulating Phylogenetically Structured Networks](https://www.r-bloggers.com/2023/11/simulating-phylogenetically-structured-networks/)**  
+- **[Simulating phylogenetically structured networks](https://www.r-bloggers.com/2023/11/simulating-phylogenetically-structured-networks/)**  
   *R-bloggers*. **2023**.
 
 - **[O “Príncipe dos Observadores” e o primeiro modelo matemático de evolução](https://naturaemuseubiodiv.wordpress.com/2023/12/13/o-principe-dos-observadores-e-o-primeiro-modelo-matematico-de-evolucao/)**  
@@ -24,17 +24,17 @@ I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Model
 - **[Steps to improve connectivity consideration in EIAs for road projects](https://transportecology.info/research/connectivity-importance-in-eias)**  
   *Transport Ecology*. **2022**.
 
-- **[Darwin to the Rescue: Using Phylogenetic Information to Overcome the Raunkiaeran Shortfall](https://www.r-bloggers.com/2021/11/darwin-to-the-rescue-using-phylogenetic-information-to-overcome-the-raunkiaeran-shortfall/)**  
+- **[Darwin to the rescue: Using phylogenetic information to overcome the Raunkiaeran Shortfall](https://www.r-bloggers.com/2021/11/darwin-to-the-rescue-using-phylogenetic-information-to-overcome-the-raunkiaeran-shortfall/)**  
   *R-bloggers*. **2021**.
 
-- **[Reconnecting the Web of Life: Rewiring and Network Robustness](https://methodsblog.com/2019/10/21/rewiring-network-robustness-en/)**  
+- **[Reconnecting the web of life: Rewiring and network robustness](https://methodsblog.com/2019/10/21/rewiring-network-robustness-en/)**  
   *Methods in Ecology and Evolution*. **2019**.
 
 ## Media Coverage
 
 Below, you can find some of the latest coverage in the media about our work.
 
-### In English  
+### English  
 
 
 - **[Heat-sensitive trees move uphill seeking climate change respite](https://www.eurekalert.org/news-releases/1052114)**  
@@ -61,7 +61,7 @@ Below, you can find some of the latest coverage in the media about our work.
 - **[Brazilian Forests, Trees Literally Move to Avoid Global Warming](https://www.techtimes.com/articles/306838/20240724/brazilian-forests-trees-literally-move-avoid-global-warming.htm)**  
   *Tech Times*. **2024**.
   
-###  In Portuguese  
+###  Portuguese  
 
 - **[Ameaça a corais brasileiros põe peixes em risco](https://revistapesquisa.fapesp.br/ameaca-a-corais-brasileiros-poe-peixes-em-risco/?fbclid=IwY2xjawGWkCRleHRuA2FlbQIxMQABHdnZTVgkA7T6Bbj0EPJ3rSaY0HsT4gprhIdfleICqgyIldaS4AskFMYDmA_aem_xj59bRLa1owbTiEWdp71pQ)**  
   *Revista FAPESP*. **2024**.
@@ -106,12 +106,12 @@ Below, you can find some of the latest coverage in the media about our work.
 - **[Pesquisa investiga funcionamento de ecossistemas em rios intermitentes](https://ufrn.br/imprensa/noticias/76527/pesquisa-investiga-funcionamento-de-ecossistemas-em-rios-intermitentes?fbclid=IwAR1a2RcVO0mQmtOLhT2RM3Wjozcr1WQvzQPfvfzMLInU2J4Er0Ox0rb6FpM)**  
   *UFRN*. **2023**.
   
-###  In French
+###  French
 
 - **[Ces forêts ont stupéfié les scientifiques avec une réponse au danger qui remet en question tout ce que nous pensions savoir sur les arbres.](https://nouvelles-dujour.com/ces-forets-ont-stupefie-les-scientifiques-avec-une-reponse-au-danger-qui-remet-en-question-tout-ce-que-nous-pensions-savoir-sur-les-arbres/)**  
   *Nouvelles du Jour*. **2024**.
 
-###  In Spanish
+###  Spanish
 
 - **[Los árboles sensibles al calor se desplazan hacia las alturas en busca de un respiro.](https://www.ecoportal.net/temas-especiales/cambio-climatico/los-arboles/)**  
   *Ecoportal*. **2024**.

@@ -2,6 +2,10 @@
 title: "Publications"
 ---
 
+## Preprint
+
+-  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A. & Ascensão, F. **Mapping Global Shipless Areas and Conflict Zones between Shipping and Marine Biodiversity**. [Preprint at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5151810).
+
 ## In press
 
 -  Mestre, F., **Bastazini, V. A. G.**, & Ascensão, F. **Effects of road density on regional food webs. Conservation Biology**. [Preprint at Biorxiv]( https://doi.org/10.1101/2024.03.07.583843).

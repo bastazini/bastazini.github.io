@@ -2,10 +2,10 @@
 title: "Talks"
 ---
 
-- **Functional Robustness of Reef Fish Networks to Simulated Coral Extinction: A Novel Analytical Approach**  
+- **Functional robustness of reef fish networks to simulated coral extinction: A novel analytical approach**  
   *British Ecological Society Annual Meeting*, Liverpool, England **2024**
   
-- **Coping with Collapse: How Functional Diversity, Evolutionary History, and Their Loss Shape Ecological Network Robustness**  
+- **Coping with collapse: How functional diversity, evolutionary history, and their loss shape ecological network robustness**  
   *University of Lille*, Lille, France **2024**
 
 - **Cambios Climáticos: Re-enmarañando el enmarañado Darwiniano**  
