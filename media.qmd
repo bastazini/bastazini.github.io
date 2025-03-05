@@ -34,8 +34,10 @@ I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Model
 
 Below, you can find some of the latest coverage in the media about our work.
 
-### English  
+### 🇬🇧
 
+- **[The Global Water Cycle](https://www.youtube.com/watch?v=KjAPyejDtbI)**  
+  *SIL International Society of Limnology*. **2025**.
 
 - **[Heat-sensitive trees move uphill seeking climate change respite](https://www.eurekalert.org/news-releases/1052114)**  
   *EurekAlert*. **2024**.
@@ -61,7 +63,7 @@ Below, you can find some of the latest coverage in the media about our work.
 - **[Brazilian Forests, Trees Literally Move to Avoid Global Warming](https://www.techtimes.com/articles/306838/20240724/brazilian-forests-trees-literally-move-avoid-global-warming.htm)**  
   *Tech Times*. **2024**.
   
-###  Portuguese  
+### 🇵🇹  
 
 - **[Vão-se os corais, os peixes também](https://revistapesquisa.fapesp.br/wp-content/uploads/2024/10/056-057_declinio-corais_345.pdf)**  
   *Revista FAPESP*. **2024**.
@@ -109,12 +111,12 @@ Below, you can find some of the latest coverage in the media about our work.
 - **[Pesquisa investiga funcionamento de ecossistemas em rios intermitentes](https://ufrn.br/imprensa/noticias/76527/pesquisa-investiga-funcionamento-de-ecossistemas-em-rios-intermitentes?fbclid=IwAR1a2RcVO0mQmtOLhT2RM3Wjozcr1WQvzQPfvfzMLInU2J4Er0Ox0rb6FpM)**  
   *UFRN*. **2023**.
   
-###  French
+### 🇫🇷
 
 - **[Ces forêts ont stupéfié les scientifiques avec une réponse au danger qui remet en question tout ce que nous pensions savoir sur les arbres.](https://nouvelles-dujour.com/ces-forets-ont-stupefie-les-scientifiques-avec-une-reponse-au-danger-qui-remet-en-question-tout-ce-que-nous-pensions-savoir-sur-les-arbres/)**  
   *Nouvelles du Jour*. **2024**.
 
-###  Spanish
+### 🇪🇸 
 
 - **[Los árboles sensibles al calor se desplazan hacia las alturas en busca de un respiro.](https://www.ecoportal.net/temas-especiales/cambio-climatico/los-arboles/)**  
   *Ecoportal*. **2024**.
