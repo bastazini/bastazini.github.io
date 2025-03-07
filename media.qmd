@@ -6,6 +6,9 @@ title: "Media"
 
 I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media.  
 
+- **[O efeito dominó das estradas: como elas transformam as teias alimentares na natureza](https://naturaemuseubiodiv.wordpress.com/2025/03/07/o-efeito-domino-das-estradas-como-elas-transformam-as-teias-alimentares-na-natureza/?fbclid=IwY2xjawI36FZleHRuA2FlbQIxMQABHXWrQ_10Af7gC8UomwEaLVzKAaZUL3UMrj6lKHv5THUe6rv3jmEOEamz_g_aem_GA23jXCwTFp7UTvR3HOk5Q)**  
+  *Naturae Digital*. **2025**.
+  
 - **[Estimating ecological network robustness with R: A functional approach](https://www.r-bloggers.com/2024/09/estimating-ecological-network-robustness-with-r-a-functional-approach/?fbclid=IwZXh0bgNhZW0CMTEAAR0q_4i0vXE10WFdKIU5ylnuEOUTGQKmMkcQKenOs1bvLG9i-yshfCw3d1c_aem_3IPw5i59S3Y2SWFEj_B76Q)**
     *R-bloggers*. **2024**
 
