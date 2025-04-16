@@ -13,7 +13,7 @@ website:
       - professional.qmd
       - talks.qmd
       - media.qmd
-      - Aquatic Ecossitems
+      - book.qmd
 
 format:
   html:
