@@ -13,7 +13,7 @@ website:
       - professional.qmd
       - talks.qmd
       - media.qmd
-      - book.qmd
+      #- book.qmd
 
 format:
   html:
