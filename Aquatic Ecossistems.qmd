@@ -1,0 +1,15 @@
+---
+title: "Download the Book: Ecossistemas Aquáticos do Sul do Brasil"
+description: "Access the full scientific book on aquatic ecosystems in southern Brazil, available as a free PDF."
+format:
+  html:
+    toc: true
+    include-meta: true
+---
+
+<iframe src="Ecossistemas_Aquáticos_do_Sul_do_Brasil_Bastazini.2024.pdf" width="100%" height="1000px" style="border: none;">
+  Este navegador não suporta visualização de PDF. 
+  <a href="Ecossistemas_Aquáticos_do_Sul_do_Brasil_Bastazini.2024.pdf">Clique aqui para baixar o livro.</a>
+</iframe>
+---
+

@@ -10,10 +10,10 @@ website:
         text: About
       - publications.qmd
       - people.qmd
-      #- projects.qmd
       - professional.qmd
       - talks.qmd
       - media.qmd
+      - Aquatic Ecossitems
 
 format:
   html:
