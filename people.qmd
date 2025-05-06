@@ -20,21 +20,6 @@ I am a PhD student in Brazil aiming to understand the impact of linear infrastru
 ::::
 :::
 
-
-::: {.columns}
-:::: {.column width="60%"}
-**[Bibiana Terra Dasoler](https://scholar.google.com.br/citations?user=MjogPDwAAAAJ&hl=pt-BR)**  
-**2022 - 2023**  
-
-I am a PhD candidate in Brazil aiming to explore different approaches to improve the planning and evaluation of mitigation measures in roads and railways. My interests involve applied ecology, landscape ecology, animal movement, and biodiversity conservation.
-::::
-
-:::: {.column width="40%"}
-<img src="Bibs.png" alt="Bibiana Terra Dasoler" style="width:100%; max-width:150px;">
-::::
-:::
-
-
 ::: {.columns}
 :::: {.column width="60%"}
 **Cumbi**  
@@ -49,15 +34,18 @@ I am a researcher focused on pheasant and squirrel ecology, exploring their beha
 :::
 
 ## Former Students
+- **[Bibiana Terra Dasoler](https://scholar.google.com.br/citations?user=MjogPDwAAAAJ&hl=pt-BR)**  
+  **2022 - 2023**  
+  Visiting PhD Student in Ecology (Federal University of Rio Grande do Sul), hosted at University of Évora. Dissertation: **"Planning and Evaluation of Mitigating Measures for the Impacts of Railways and Highways on Wildlife."**
 
 - **Bruna de Castro Knopp**  
   **2016 - 2018**  
-  Thesis - Master’s Degree in Animal Biology, Federal University of Pelotas. (Co-advisor). Relationship Between Wetland Area and Taxonomic, Functional and Phylogenetic Diversity of Birds in Southern Brazil.
+  Master’s Degree in Animal Biology, Federal University of Pelotas. (Co-advisor). Thesis: **"Relationship Between Wetland Area and Taxonomic, Functional and Phylogenetic Diversity of Birds in Southern Brazil."**
   
 - **Timóteo Matthias Rico**  
   **2014**  
-  Monograph - Specialization in Conservation Biology, Catholic University of Pelotas. **Data Mining Applied to Conservation Biology: A case study on the extinction risk of mammals from Rio Grande do Sul.**
+  Specialization in Conservation Biology, Catholic University of Pelotas. Monograph: **"Data Mining Applied to Conservation Biology: A case study on the extinction risk of mammals from Rio Grande do Sul."**
   
 - **Diogo Maia Gräbin**  
   **2012**  
-  Monograph – Bachelor’s Degree in Biology, Federal University of Rio Grande do Sul. **Density and Spatial Distribution of Rhea americana in Different Physiognomies of the Pantanal of Nhecolândia.**
+  Bachelor’s Degree in Biology, Federal University of Rio Grande do Sul. Monograph: "**Density and Spatial Distribution of Rhea americana in Different Physiognomies of the Pantanal of Nhecolândia."**
