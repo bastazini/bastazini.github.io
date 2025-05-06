@@ -6,6 +6,9 @@ title: "Media"
 
 I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media.  
 
+- **[Mapping research landscapes and dynamics: Some basic bibliometric analyses with R](https://www.r-bloggers.com/2025/05/mapping-research-landscapes-and-dynamics-some-basic-bibliometric-analyses-with-r/)**
+    *R-bloggers*. **2025**
+
 - **[O efeito dominó das estradas: como elas transformam as teias alimentares na natureza](https://naturaemuseubiodiv.wordpress.com/2025/03/07/o-efeito-domino-das-estradas-como-elas-transformam-as-teias-alimentares-na-natureza/?fbclid=IwY2xjawI36FZleHRuA2FlbQIxMQABHXWrQ_10Af7gC8UomwEaLVzKAaZUL3UMrj6lKHv5THUe6rv3jmEOEamz_g_aem_GA23jXCwTFp7UTvR3HOk5Q)**  
   *Naturae Digital*. **2025**.
   
@@ -42,11 +45,11 @@ Below, you can find some of the latest coverage in the media about our work.
 - **[The Global Water Cycle](https://www.youtube.com/watch?v=KjAPyejDtbI)**  
   *SIL International Society of Limnology*. **2025**.
 
-- **[Heat-sensitive trees move uphill seeking climate change respite](https://www.eurekalert.org/news-releases/1052114)**  
-  *EurekAlert*. **2024**.
-
 - **[Heat-sensitive trees moving uphill due to rising temperatures, study finds](https://phys.org/news/2024-07-sensitive-trees-uphill-due-temperatures.html)**  
   *PhysOrg*. **2024**.
+  
+- **[Heat-sensitive trees move uphill seeking climate change respite](https://scienmag.com/heat-sensitive-trees-move-uphill-seeking-climate-change-respite/)**  
+  *Science Magazine*. **2024**.
   
 - **[Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change](https://vegsciblog.org/2024/07/28/elevational-shifts-in-tree-community-composition/)**  
   *Vegetetaion Science Blog*. **2024**.
