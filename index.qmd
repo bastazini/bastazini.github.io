@@ -11,7 +11,7 @@ about:
       href: https://ecoevo.social/@Bastazini
     - icon: bluesky
       text: Bluesky
-      href: https://bsky.app/profile/Bastazini.ecoevo.social.ap.brid.gy
+      href: https://bsky.app/profile/vinibastazini.bsky.social
     - icon: research-gate
       text: Research Gate
       href: https://www.researchgate.net/profile/Vinicius-Bastazini-2?ev=hdr_xprf
