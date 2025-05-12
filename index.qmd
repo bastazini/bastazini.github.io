@@ -9,7 +9,7 @@ about:
     - icon: fa-bluesky
       text: Bluesky
       href: https://bsky.app/profile/vinibastazini.bsky.social
-    - icon: fa-researchgate
+    - icon: research-gate
       text: Research Gate
       href: https://www.researchgate.net/profile/Vinicius-Bastazini-2?ev=hdr_xprf
     - icon: github
