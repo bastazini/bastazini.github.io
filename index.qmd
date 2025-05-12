@@ -6,13 +6,10 @@ about:
   template: trestles
   image-shape: rectangle
   links:
-    - icon: mastodon
-      text: Mastodon
-      href: https://ecoevo.social/@Bastazini
-    - icon: bluesky
+    - icon: fa-bluesky
       text: Bluesky
       href: https://bsky.app/profile/vinibastazini.bsky.social
-    - icon: research-gate
+    - icon: fa-researchgate
       text: Research Gate
       href: https://www.researchgate.net/profile/Vinicius-Bastazini-2?ev=hdr_xprf
     - icon: github
