@@ -6,6 +6,9 @@ title: "Media"
 
 I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media.  
 
+- **[The Dynamics of the “Gentle Way”: Exploring Judo Attack Combinations as Networks in R](https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/)**
+    *R-bloggers*. **2025**
+    
 - **[Mapping research landscapes and dynamics: Some basic bibliometric analyses with R](https://www.r-bloggers.com/2025/05/mapping-research-landscapes-and-dynamics-some-basic-bibliometric-analyses-with-r/)**
     *R-bloggers*. **2025**
 
@@ -116,11 +119,6 @@ Below, you can find some of the latest coverage in the media about our work.
   
 - **[Pesquisa investiga funcionamento de ecossistemas em rios intermitentes](https://ufrn.br/imprensa/noticias/76527/pesquisa-investiga-funcionamento-de-ecossistemas-em-rios-intermitentes?fbclid=IwAR1a2RcVO0mQmtOLhT2RM3Wjozcr1WQvzQPfvfzMLInU2J4Er0Ox0rb6FpM)**  
   *UFRN*. **2023**.
-  
-### 🇫🇷
-
-- **[Ces forêts ont stupéfié les scientifiques avec une réponse au danger qui remet en question tout ce que nous pensions savoir sur les arbres.](https://nouvelles-dujour.com/ces-forets-ont-stupefie-les-scientifiques-avec-une-reponse-au-danger-qui-remet-en-question-tout-ce-que-nous-pensions-savoir-sur-les-arbres/)**  
-  *Nouvelles du Jour*. **2024**.
 
 ### 🇪🇸 
 
