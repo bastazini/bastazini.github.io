@@ -6,6 +6,9 @@ title: "Media"
 
 I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media.  
 
+- **[The domino effect of roads on biodiversity: How the impacts of wildlife-vehicle collisions propagate through food webs](https://transportecology.info/research/roadkill-cascading-effects-food-webs?fbclid=IwY2xjawLcXh1leHRuA2FlbQIxMQBicmlkETFJdnJxbWlrY0NHVnVxS2lIAR5sqWh_TjENf1mDhk-3cfksnsXRYN-rVPcVVLcjnGiN8Y6Cc1c8_f4ztrWN_g_aem_kJNC-p4_66mjlNY1V8ax0Q)**
+    *Transport Ecology*. **2025**
+
 - **[The Dynamics of the “Gentle Way”: Exploring Judo Attack Combinations as Networks in R](https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/)**
     *R-bloggers*. **2025**
     
