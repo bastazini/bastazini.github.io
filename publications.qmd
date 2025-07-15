@@ -79,7 +79,7 @@ title: "Publications"
 
 ### 2018
 
-- Casas, G., **Bastazini, V. A. G.**, Debastiani, V. J., & Pillar, V. D. P. (2018). **[Assessing sampling sufficiency of network metrics using bootstrap](https://doi.org/10.1016/j.ecocom.2018.09.005)**. **Ecological Complexity**, 36, 268-275.
+- Casas, G., **Bastazini, V. A. G.**, Debastiani, V. J., & Pillar, V. D. P. **[Assessing sampling sufficiency of network metrics using bootstrap](https://doi.org/10.1016/j.ecocom.2018.09.005)**. **Ecological Complexity**, 36, 268-275.
 
 - Garcias, F. M., Stolz, J., Fernández, G. P., Kubiak, B. B., **Bastazini, V. A. G.**, & Freitas, T. R. O. **[Environmental predictors of demography in the tuco-tuco of the dunes (Ctenomys flamarioni)](http://www.scielo.org.ar/scielo.php?script=sci_abstract&pid=S0327-93832018000200004)**. **Mastozoología Neotropical**, 25(2), 293-304.
 

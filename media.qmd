@@ -6,45 +6,27 @@ title: "Media"
 
 I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media.  
 
+- **[The silent impact: how roads are eroding europe’s food webs](https://www.currentconservation.org/the-silent-impact-how-roads-are-eroding-europes-food-webs/?fbclid=IwY2xjawLjR6BleHRuA2FlbQIxMQBicmlkETFJdnJxbWlrY0NHVnVxS2lIAR4HgKsatDOUMa-FO9SqsAKC3V9NEmLouUfJbNYH2Gomw1ROaTOHf7CjyPE-BA_aem_s808u8Jf1Modv8FBErAqWg)**
+    *Current Conservation*. **2025**
+
 - **[The domino effect of roads on biodiversity: How the impacts of wildlife-vehicle collisions propagate through food webs](https://transportecology.info/research/roadkill-cascading-effects-food-webs?fbclid=IwY2xjawLcXh1leHRuA2FlbQIxMQBicmlkETFJdnJxbWlrY0NHVnVxS2lIAR5sqWh_TjENf1mDhk-3cfksnsXRYN-rVPcVVLcjnGiN8Y6Cc1c8_f4ztrWN_g_aem_kJNC-p4_66mjlNY1V8ax0Q)**
     *Transport Ecology*. **2025**
-
-- **[The Dynamics of the “Gentle Way”: Exploring Judo Attack Combinations as Networks in R](https://www.r-bloggers.com/2025/05/the-dynamics-of-the-gentle-way-exploring-judo-attack-combinations-as-networks-in-r/)**
-    *R-bloggers*. **2025**
-    
-- **[Mapping research landscapes and dynamics: Some basic bibliometric analyses with R](https://www.r-bloggers.com/2025/05/mapping-research-landscapes-and-dynamics-some-basic-bibliometric-analyses-with-r/)**
-    *R-bloggers*. **2025**
 
 - **[O efeito dominó das estradas: como elas transformam as teias alimentares na natureza](https://naturaemuseubiodiv.wordpress.com/2025/03/07/o-efeito-domino-das-estradas-como-elas-transformam-as-teias-alimentares-na-natureza/?fbclid=IwY2xjawI36FZleHRuA2FlbQIxMQABHXWrQ_10Af7gC8UomwEaLVzKAaZUL3UMrj6lKHv5THUe6rv3jmEOEamz_g_aem_GA23jXCwTFp7UTvR3HOk5Q)**  
   *Naturae Digital*. **2025**.
   
-- **[Estimating ecological network robustness with R: A functional approach](https://www.r-bloggers.com/2024/09/estimating-ecological-network-robustness-with-r-a-functional-approach/?fbclid=IwZXh0bgNhZW0CMTEAAR0q_4i0vXE10WFdKIU5ylnuEOUTGQKmMkcQKenOs1bvLG9i-yshfCw3d1c_aem_3IPw5i59S3Y2SWFEj_B76Q)**
-    *R-bloggers*. **2024**
-
-- **[Visualizing power models in species-area relationships using R shiny: An interactive educational tool](https://www.r-bloggers.com/2024/04/visualizing-power-models-in-species-area-relationships-using-r-shiny-an-interactive-educational-tool/)**
-    *R-bloggers*. **2024**
-
-- **[Simple and fast visualization of biodiversity occurrence data using GBIF and R shiny](https://www.r-bloggers.com/2024/04/simple-and-fast-visualization-of-biodiversity-occurrence-data-using-gbif-and-r-shiny/)**  
-  *R-bloggers*. **2024**.
-
-- **[Simulating phylogenetically structured networks](https://www.r-bloggers.com/2023/11/simulating-phylogenetically-structured-networks/)**  
-  *R-bloggers*. **2023**.
-
 - **[O “Príncipe dos Observadores” e o primeiro modelo matemático de evolução](https://naturaemuseubiodiv.wordpress.com/2023/12/13/o-principe-dos-observadores-e-o-primeiro-modelo-matematico-de-evolucao/)**  
   *Naturae Digital*. **2023**.
 
 - **[Steps to improve connectivity consideration in EIAs for road projects](https://transportecology.info/research/connectivity-importance-in-eias)**  
   *Transport Ecology*. **2022**.
 
-- **[Darwin to the rescue: Using phylogenetic information to overcome the Raunkiaeran Shortfall](https://www.r-bloggers.com/2021/11/darwin-to-the-rescue-using-phylogenetic-information-to-overcome-the-raunkiaeran-shortfall/)**  
-  *R-bloggers*. **2021**.
-
 - **[Reconnecting the web of life: Rewiring and network robustness](https://methodsblog.com/2019/10/21/rewiring-network-robustness-en/)**  
-  *Methods in Ecology and Evolution*. **2019**.
+  *Methods in Ecology and Evolution Blog*. **2019**.
 
 ## Media Coverage
 
-Below, you can find some of the latest coverage in the media about our work.
+Below, you can find recent coverage in the media and scientific outlets about our work.
 
 ### 🇬🇧
 
