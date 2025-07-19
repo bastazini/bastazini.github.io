@@ -58,7 +58,7 @@ title: "Publications"
 
 ### 2021
 
-- Debastiani, V., **Bastazini, V. A. G.**, & Pillar, V. P. (2021). **[Phylogenetic uncertainty and the inference of patterns in community ecology and comparative studies](https://link.springer.com/article/10.1007/s00442-021-04972-1)**. **Oecologia**, 196, 633–647.
+- Debastiani, V., **Bastazini, V. A. G.**, & Pillar, V. P. **[Phylogenetic uncertainty and the inference of patterns in community ecology and comparative studies](https://link.springer.com/article/10.1007/s00442-021-04972-1)**. **Oecologia**, 196, 633–647.
 
 - Debastiani, V., **Bastazini, V. A. G.**, & Pillar, V. P. **[Using phylogenetic information to impute missing functional trait values in ecological databases](https://www.sciencedirect.com/science/article/abs/pii/S1574954121001060)**. **Ecological Informatics**, 63, 101315.
 
@@ -84,15 +84,15 @@ title: "Publications"
 
 - Casas, G., **Bastazini, V. A. G.**, Debastiani, V. J., & Pillar, V. D. P. **[Assessing sampling sufficiency of network metrics using bootstrap](https://doi.org/10.1016/j.ecocom.2018.09.005)**. **Ecological Complexity**, 36, 268-275.
 
+- Gonçalves, L. O., Alvares, D. J., Teixeira, F. Z., Schuck, G., Coelho, I. P., Esperandio, I. B., Anza, J., Beduschi, J., **Bastazini, V. A. G.**, & Kindel, A. **[Reptile road-kills in Southern Brazil: Composition, hot moments and hotspots](https://doi.org/10.1016/j.scitotenv.2017.09.053)**. **Science of the Total Environment**, 615, 1438-1445.
+
 - Garcias, F. M., Stolz, J., Fernández, G. P., Kubiak, B. B., **Bastazini, V. A. G.**, & Freitas, T. R. O. **[Environmental predictors of demography in the tuco-tuco of the dunes (Ctenomys flamarioni)](http://www.scielo.org.ar/scielo.php?script=sci_abstract&pid=S0327-93832018000200004)**. **Mastozoología Neotropical**, 25(2), 293-304.
 
 ### 2017
 
-- Gonçalves, L. O., Alvares, D. J., Teixeira, F. Z., Schuck, G., Coelho, I. P., Esperandio, I. B., Anza, J., Beduschi, J., **Bastazini, V. A. G.**, & Kindel, A. **[Reptile road-kills in Southern Brazil: Composition, hot moments and hotspots](https://doi.org/10.1016/j.scitotenv.2017.09.053)**. **Science of the Total Environment**, 615, 1438-1445.
-
 - **Bastazini, V. A. G.**, Abreu, P. M., Azambujo, B., Casas, G., Debastiani, V., Guimarães Jr, P. R., & Pillar, V. P. **[Untangling the tangled bank: A novel method for partitioning the effects of phylogenies and traits on ecological networks](https://link.springer.com/article/10.1007/s11692-017-9409-8)**. **Evolutionary Biology**, 44, 312–324.
 
-- Dias, R. D., Gianuca, A., Vizentin-Bugoni, J., Bencke, G. A., & **Bastazini, V. A. G.** (2017). **[Livestock disturbance in southern Brazilian grasslands influences avian species diversity via turnover](https://link.springer.com/article/10.1007/s10531-017-1370-4)**. **Biodiversity and Conservation**, 26, 2473–2490.
+- Dias, R. D., Gianuca, A., Vizentin-Bugoni, J., Bencke, G. A., & **Bastazini, V. A. G. [Livestock disturbance in southern Brazilian grasslands influences avian species diversity via turnover](https://link.springer.com/article/10.1007/s10531-017-1370-4)**. **Biodiversity and Conservation**, 26, 2473–2490.
 
 - Bergamin, R. S., **Bastazini, V. A. G**., Vélez-Martin, E., Debastiani, V., Zanini, K. J., Loyola, R., & Müller, S. C. **[Linking beta diversity patterns to protected areas: Lessons from the Brazilian Atlantic Forest](https://link.springer.com/article/10.1007/s10531-017-1315-y)**. **Biodiversity & Conservation**, 26, 1557–1568.
 
