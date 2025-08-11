@@ -6,8 +6,6 @@ title: "Publications"
 
 ## In press
 
--  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A. & Ascensão, F. **Mapping global shipless areas and conflict zones between shipping and large marine vertebrates. Biological Conservation**. [Preprint at SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5151810).
-
 - Mestre, F., Quiles, P., **Bastazini, V. A. G.**, Ascensão, F. **Road effects on biotic interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *Road Ecology: Synthesis and Perspectives*. Springer Cham.
 
 -  González-del-Pliego, P., **Bastazini, V. A. G.**, **Diversity and extinction risk of Colombian Andean amphibians across life regions**. In Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. (Eds.), *[Andean herpetofauna - explorations of diversity, ecology, and conservation](https://link.springer.com/book/9783032000736)*. Springer Cham. ISBNs: (hardcover) 978-3-032-00073-6, (softcover) 978-3-032-00076-7, (eBook) 978-3-032-00074-3
@@ -15,6 +13,8 @@ title: "Publications"
 ## Published
 
 ### 2025
+
+-  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A. & Ascensão, F. **[Mapping global shipless areas and conflict zones between shipping and large marine vertebrates](https://www.sciencedirect.com/science/article/pii/S0006320725004689). Biological Conservation** 311: 111431. 
 
 - **Bastazini, V. A. G. [From pairwise interactions to community structure: A trait-based approach to inferring assembly mechanisms across spatial scales](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70138). Functional Ecology**, 1-3. 
 
