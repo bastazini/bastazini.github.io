@@ -5,20 +5,8 @@ format:
     theme: cosmo
     toc: true
 ---
-## Recent Students
+## Current Students
 
-::: {.columns}
-:::: {.column width="60%"}
-[**Talita Menger**](https://scholar.google.com.br/citations?user=hCg7vwcAAAAJ&hl=pt-BR&oi=ao)  
-**2023 - **  
-
-I am a PhD student in Brazil aiming to understand the impact of linear infrastructures on wildlife connectivity, exploring quantitative approaches to improve road planning and mitigation measures. My interests involve environmental impact assessment, animal movement, and biodiversity conservation.
-::::
-
-:::: {.column width="40%"}
-<img src="Tali.png" alt="Talita Menger" style="width:100%; max-width:150px;">
-::::
-:::
 
 ::: {.columns}
 :::: {.column width="60%"}
@@ -34,17 +22,22 @@ I am a researcher focused on pheasant and squirrel ecology, exploring their beha
 :::
 
 ## Former Students
+
+- **[**Talita Menger**](https://scholar.google.com.br/citations?user=hCg7vwcAAAAJ&hl=pt-BR&oi=ao)**  
+  **2023**  
+  Visiting PhD Student in Ecology (Federal University of Rio Grande do Sul), hosted at University of Évora. PhD project: **Approaches to the prediction and mitigation of wildlife impacts in the planning and evaluation of new road infrastructure routes.**
+  
 - **[Bibiana Terra Dasoler](https://scholar.google.com.br/citations?user=MjogPDwAAAAJ&hl=pt-BR)**  
   **2022 - 2023**  
-  Visiting PhD Student in Ecology (Federal University of Rio Grande do Sul), hosted at University of Évora. Dissertation: **"Planning and Evaluation of Mitigating Measures for the Impacts of Railways and Highways on Wildlife."**
+  Visiting PhD Student in Ecology (Federal University of Rio Grande do Sul), hosted at University of Évora. Dissertation: **Planning and Evaluation of Mitigating Measures for the Impacts of Railways and Highways on Wildlife.**
 
-- **Bruna de Castro Knopp**  
+- **[Bruna de Castro Knopp](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4892257A6&tokenCaptchar=03AFcWeA4DGtAbCTeQXVmIB3nZ7zKIAJOuApxV6COrhcA-gTofJfNeJxejkiO0BqyIfO34ueXP3EE4aKh0ps0FLy5JLP0YpcuCfoTzSb9dBWxIQyVg0FLvyhoC4diq-Gnl64QBKqv5tS4eGQ3vmku9zYqp2OhsP7E_H_g0SfqU65mh_22bHIfQRZb2Hg5k6OGBC7ZObM4TEZ7PDkGR6_4h7NyO4R_-IkaS8rIetIANFmYygl5FxewzNLZkNJx6-MusOdKe0Jola4CYCd9mKJJCv3GXFeA5UQZs2BNzH0N0kHKGR-fGI-cG_2SHf2geDt7vgGtR9kk4Wi_XJLwMCrHrFohduYxCDdTS5Nl8iakppB9keNxDdXXluA0KwzCJAn-93w3M-g13qOITqZ3BM4Lattndyfd0P5NHKDE-mI-TRgIjCPElgWhEgiXILKptQovYYq2t2ErL9odIcUEqA7-D39DbEmXBmcmCUhFlmZbBU_eid9FSpJrYezOCN4vPL9cxQW86GIMBkCNViB2ZDuQ0-pp3gQugvuMBXI69giWfC65fCtcb51Sii8BXLbBN41NZqU_nuI8HO9QTRnRFxNC9HBcQf1xJonEOPG6p8LRtahN5vVBN8km9w96Lkl0C0jvmht301xZXw7j3Eb-SzF1ePy38noKiB89dZuyxaaMfz5dZy4KUoOVexKaVD03Wr_YTi2wNZamTwORMpsXuPOIZ1W0O9XgZ1Wj8t-TTHV8gZIDHxZSxZeqRLXxO8GFDClmSlXXMJfb4s8vTFTovhvADoHlBjFv2d4qGv85n2Aqh24cuv23QPe3uGMSYcrWwNEgggBCK3P4X-EuA38PmI-dnJhmFom9P0RYUk7zkpdSOcWhWSOHevjcaaeYKtJ0Q-ISKUWugUrR_PdmkIQ8Fi2PQrSiCnZ-gMn0qIyARkMGXMvbR1xTJvp3oH7kVMNq_wiRzGSnArlIq5__JBRDf8X0U7QpKM-C6FWrgMwN-qvhaemfcF_rTaa2GRBV_PfH8MxxFHZ6GOGqHolehuODqllcc36_ANwOd1bzlug)**  
   **2016 - 2018**  
-  Master’s Degree in Animal Biology, Federal University of Pelotas. (Co-advisor). Thesis: **"Relationship Between Wetland Area and Taxonomic, Functional and Phylogenetic Diversity of Birds in Southern Brazil."**
+  Master’s Degree in Animal Biology, Federal University of Pelotas. (Co-advisor). Thesis: **Relationship Between Wetland Area and Taxonomic, Functional and Phylogenetic Diversity of Birds in Southern Brazil.**
   
-- **Timóteo Matthias Rico**  
+- **[Timóteo Mathies Rico](https://www.researchgate.net/profile/Timoteo-Rico)**  
   **2014**  
-  Specialization in Conservation Biology, Catholic University of Pelotas. Monograph: **"Data Mining Applied to Conservation Biology: A case study on the extinction risk of mammals from Rio Grande do Sul."**
+  Specialization in Conservation Biology, Catholic University of Pelotas. Monograph: **Data Mining Applied to Conservation Biology: A case study on the extinction risk of mammals from Rio Grande do Sul.**
   
 - **Diogo Maia Gräbin**  
   **2012**  
