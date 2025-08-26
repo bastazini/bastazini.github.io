@@ -17,7 +17,7 @@ title: "Publications"
 
 ### 2025
 
--  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A. & Ascensão, F. **[Mapping global shipless areas and conflict zones between shipping and large marine vertebrates](https://www.sciencedirect.com/science/article/pii/S0006320725004689). Biological Conservation** 311: 111431. 
+-  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A. & Ascensão, F. **[Mapping global shipless areas and conflict zones between shipping and large marine vertebrates](https://www.sciencedirect.com/science/article/pii/S0006320725004689). Biological Conservation**, 311, 111431. 
 
 - **Bastazini, V. A. G. [From pairwise interactions to community structure: A trait-based approach to inferring assembly mechanisms across spatial scales](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70138). Functional Ecology**, 1-3. 
 
