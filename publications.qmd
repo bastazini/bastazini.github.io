@@ -6,9 +6,6 @@ title: "Publications"
 
 ## In press
 
-- Dias, R. A., **Bastazini, V. A. G.**, Gianuca, A., Matthews, T. J. **The spatial scaling of multiple dimensions of functional diversity in habitat islands. Functional Ecology**.
-
-
 - Mestre, F., Quiles, P., **Bastazini, V. A. G.**, Ascensão, F. **Road effects on biotic interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *Road Ecology: Synthesis and Perspectives*. Springer Cham.
 
 -  González-del-Pliego, P., **Bastazini, V. A. G.**, **Diversity and extinction risk of Colombian Andean amphibians across life regions**. In Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. (Eds.), *[Andean herpetofauna - explorations of diversity, ecology, and conservation](https://link.springer.com/book/9783032000736)*. Springer Cham. ISBNs: (hardcover) 978-3-032-00073-6, (softcover) 978-3-032-00076-7, (eBook) 978-3-032-00074-3
@@ -16,6 +13,9 @@ title: "Publications"
 ## Published
 
 ### 2025
+
+- Dias, R. A., **Bastazini, V. A. G.**, Gianuca, A., Matthews, T. J. **[The spatial scaling of multiple dimensions of functional diversity in habitat islands](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70158?fbclid=IwY2xjawM3hh1leHRuA2FlbQIxMQBicmlkETFJdnJxbWlrY0NHVnVxS2lIAR6f10JGn4ubPhjyEZPHyqeK8OHd75rvFM_Fa6X7AYBXd5R_Ni9vydEKWbA5QA_aem_Bt29JZNiCXOStgXgVsKMbA). Functional Ecology**, 1-17.
+
 
 -  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A. & Ascensão, F. **[Mapping global shipless areas and conflict zones between shipping and large marine vertebrates](https://www.sciencedirect.com/science/article/pii/S0006320725004689). Biological Conservation**, 311, 111431. 
 
