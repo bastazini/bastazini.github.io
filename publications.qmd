@@ -6,32 +6,34 @@ title: "Publications"
 
 ## In press
 
-- Mestre, F., Quiles, P., **Bastazini, V. A. G.**, Ascensão, F. **Road effects on biotic interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *Road Ecology: Synthesis and Perspectives*. Springer Cham.
+- Hofmann, G. S., Weber, E., **Bastazini, V. A. G.**, Rossatto, D.R., Franco, A.C., Granada, C. E., Kaminski, L. A., Ubaid, F. K., Leandro-Silva, V., Borges- Martins, M., Silva, R. C., Cardoso, M. F., Oliveira, L. F. B., Aquino, F. E., & Ramos Pereira, M.J. **Climate change in the Brazilian Cerrado: A looming threat to terrestrial biodiversity**. WIREs Climate Change
 
--  González-del-Pliego, P., **Bastazini, V. A. G.**, **Diversity and extinction risk of Colombian Andean amphibians across life regions**. In Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. (Eds.), *[Andean herpetofauna - explorations of diversity, ecology, and conservation](https://link.springer.com/book/9783032000736)*. Springer Cham. ISBNs: (hardcover) 978-3-032-00073-6, (softcover) 978-3-032-00076-7, (eBook) 978-3-032-00074-3
+- Mestre, F., Quiles, P., **Bastazini, V. A. G.**, & Ascensão, F. **Road effects on biotic interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *Road Ecology: Synthesis and Perspectives*. Springer Cham.
+
+-  González-del-Pliego, P., & **Bastazini, V. A. G.**, **Diversity and extinction risk of Colombian Andean amphibians across life regions**. In Navas, C., Piantoni, C., Catenazzi, A., Urbina-Cardona, N. (Eds.), *[Andean herpetofauna - explorations of diversity, ecology, and conservation](https://link.springer.com/book/9783032000736)*. Springer Cham. ISBNs: (hardcover) 978-3-032-00073-6, (softcover) 978-3-032-00076-7, (eBook) 978-3-032-00074-3
 
 ## Published
 
 ### 2025
 
-- Dias, R. A., **Bastazini, V. A. G.**, Gianuca, A., Matthews, T. J. **[The spatial scaling of multiple dimensions of functional diversity in habitat islands](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70158?fbclid=IwY2xjawM3hh1leHRuA2FlbQIxMQBicmlkETFJdnJxbWlrY0NHVnVxS2lIAR6f10JGn4ubPhjyEZPHyqeK8OHd75rvFM_Fa6X7AYBXd5R_Ni9vydEKWbA5QA_aem_Bt29JZNiCXOStgXgVsKMbA). Functional Ecology**, 1-17.
+- Dias, R. A., **Bastazini, V. A. G.**, Gianuca, A., & Matthews, T. J. **[The spatial scaling of multiple dimensions of functional diversity in habitat islands](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70158?fbclid=IwY2xjawM3hh1leHRuA2FlbQIxMQBicmlkETFJdnJxbWlrY0NHVnVxS2lIAR6f10JGn4ubPhjyEZPHyqeK8OHd75rvFM_Fa6X7AYBXd5R_Ni9vydEKWbA5QA_aem_Bt29JZNiCXOStgXgVsKMbA). Functional Ecology**, 1-17.
 
 
--  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A. & Ascensão, F. **[Mapping global shipless areas and conflict zones between shipping and large marine vertebrates](https://www.sciencedirect.com/science/article/pii/S0006320725004689). Biological Conservation**, 311, 111431. 
+-  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A., & Ascensão, F. **[Mapping global shipless areas and conflict zones between shipping and large marine vertebrates](https://www.sciencedirect.com/science/article/pii/S0006320725004689). Biological Conservation**, 311, 111431. 
 
 - **Bastazini, V. A. G. [From pairwise interactions to community structure: A trait-based approach to inferring assembly mechanisms across spatial scales](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70138). Functional Ecology**, 39(9), 2174–2176.
 
 - Mestre, F., **Bastazini, V. A. G.**, & Ascensão, F. **[Effects of road density on regional food webs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70007). Conservation Biology** 39(4), e70007.
 
-- **Bastazini, V. A. G.**, Hofmann, G.S. **[Southern Brazil’s 2024 floods: Causes, impacts, and how wetlands can help mitigate extreme climate disasters](https://zenodo.org/records/14751055). SILNews - The International Society of Limnology Newsletter** 85, 6-7.
+- **Bastazini, V. A. G.**, & Hofmann, G.S. **[Southern Brazil’s 2024 floods: Causes, impacts, and how wetlands can help mitigate extreme climate disasters](https://zenodo.org/records/14751055). SILNews - The International Society of Limnology Newsletter** 85, 6-7.
 
-- Franz, I., Chiarini, E., **Bastazini, V. A. G.** , Boldrini, I. I., Fonatna, C. **[Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha](https://link.springer.com/article/10.1007/s43388-024-00217-w). Ornithology Research** 33(12), 1-9.
+- Franz, I., Chiarini, E., **Bastazini, V. A. G.** , Boldrini, I. I., & Fonatna, C. **[Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha](https://link.springer.com/article/10.1007/s43388-024-00217-w). Ornithology Research** 33(12), 1-9.
 
 ### 2024
 
-- González-del-Pliego, P., Galiana, N., González-Trujillo, J. D., Mestre, F., Araújo, M. B., **Bastazini, V. A. G. [Are threatened species important for glueing interaction networks together?](https://www.sciencedirect.com/science/article/pii/S2530064424000531) Perspectives in Ecology and Conservation** 22(4), 342-347.
+- González-del-Pliego, P., Galiana, N., González-Trujillo, J. D., Mestre, F., Araújo, M. B., & **Bastazini, V. A. G. [Are threatened species important for glueing interaction networks together?](https://www.sciencedirect.com/science/article/pii/S2530064424000531) Perspectives in Ecology and Conservation** 22(4), 342-347.
 
-- Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., **Bastazini, V. A. G. [Coping with Collapse: Functional Robustness of Coral-Reef Fish Network to Simulated Cascade Extinction](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17513#). Global Change Biology**, 30, e17513.
+- Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., & **Bastazini, V. A. G. [Coping with Collapse: Functional Robustness of Coral-Reef Fish Network to Simulated Cascade Extinction](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17513#). Global Change Biology**, 30, e17513.
 
 - Bergamin, R. S., **Bastazini, V. A. G.**, Esquivel-Muelbert, A., Bordin, K., Klipel, J., Debastiani, V., Vibrans, A., Loyola, R., & Müller, S. **[Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change](https://doi.org/10.1111/jvs.13289)**. **Journal of Vegetation Science**, 35(4), e13289.
 
