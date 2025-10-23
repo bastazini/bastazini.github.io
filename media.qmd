@@ -4,12 +4,15 @@ title: "Media"
 
 ## Blogging
 
-I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media.  
+I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media. 
+
+- **[Navigating the balance: Mapping shipless, preservation, and mitigation areas for marine biodiversity](https://transportecology.info/research/shipping-and-biodiversity)**
+    *Transport Ecology*. **2025**.
 
 - **[The silent impact: how roads are eroding europe’s food webs](https://www.currentconservation.org/the-silent-impact-how-roads-are-eroding-europes-food-webs/?fbclid=IwY2xjawLjR6BleHRuA2FlbQIxMQBicmlkETFJdnJxbWlrY0NHVnVxS2lIAR4HgKsatDOUMa-FO9SqsAKC3V9NEmLouUfJbNYH2Gomw1ROaTOHf7CjyPE-BA_aem_s808u8Jf1Modv8FBErAqWg)**
     *Current Conservation*. **2025**.
 
-- **[The domino effect of roads on biodiversity: How the impacts of wildlife-vehicle collisions propagate through food webs](https://transportecology.info/research/roadkill-cascading-effects-food-webs?fbclid=IwY2xjawLcXh1leHRuA2FlbQIxMQBicmlkETFJdnJxbWlrY0NHVnVxS2lIAR5sqWh_TjENf1mDhk-3cfksnsXRYN-rVPcVVLcjnGiN8Y6Cc1c8_f4ztrWN_g_aem_kJNC-p4_66mjlNY1V8ax0Q)**
+- **[The domino effect of roads on biodiversity: How the impacts of wildlife-vehicle collisions propagate through food webs](https://transportecology.info/research/roadkill-cascading-effects-food-webs)**
     *Transport Ecology*. **2025**.
 
 - **[O efeito dominó das estradas: como elas transformam as teias alimentares na natureza](https://naturaemuseubiodiv.wordpress.com/2025/03/07/o-efeito-domino-das-estradas-como-elas-transformam-as-teias-alimentares-na-natureza/?fbclid=IwY2xjawI36FZleHRuA2FlbQIxMQABHXWrQ_10Af7gC8UomwEaLVzKAaZUL3UMrj6lKHv5THUe6rv3jmEOEamz_g_aem_GA23jXCwTFp7UTvR3HOk5Q)**  
