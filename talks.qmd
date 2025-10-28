@@ -1,7 +1,15 @@
 ---
 title: "Talks"
 ---
+## Upcoming talks
+- **Trait evolution and matching shape stability in ecological networks**  
+  *British Ecological Society Annual Meeting*, Edinburgh, Scotland.
+  
+ - **Enfrentando o colapso: como a diversidade funcional e a evolução moldam a robustez das redes ecológicas**  
+  *Federal University of Santa Catarina*, Florianppolis, Brazil.
+  
 
+## Past talks
 - **Functional robustness of reef fish networks to simulated coral extinction: A novel analytical approach**  
   *British Ecological Society Annual Meeting*, Liverpool, England **2024**.
   

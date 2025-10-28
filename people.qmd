@@ -1,10 +1,8 @@
 ---
 title: "Mentoring"
-format:
-  html:
-    theme: cosmo
-    toc: true
 ---
+> *As someone endlessly curious about the dynamics of biodiversity, I always welcome the opportunity to supervise master’s and doctoral research projects across a wide variety of topics, theoretical approaches, and methodological frameworks, and I’m always open to discussing new research ideas. Feel free to [get in touch](mailto:bastazini.vinicius@gmail.com) if you’d like to explore potential projects or collaborations.*
+
 ## Current Students
 
 
