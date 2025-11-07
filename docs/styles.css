@@ -1,1 +1,10 @@
 /* css styles */
+
+a {
+  color: #215483; /* This sets the default link color to the dark blue */
+}
+
+a:hover {
+  color: #1a2b3c; /* A slightly darker shade for hover effect */
+}
+
