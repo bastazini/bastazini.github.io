@@ -18,28 +18,28 @@ title: "Publications"
 
 ### 2025
 
-- Dias, R. A., **Bastazini, V. A. G.**, Gianuca, A., & Matthews, T. J. **[The spatial scaling of multiple dimensions of functional diversity in habitat islands](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70158). Functional Ecology**, 39(11), 3164-3180.
+- Dias, R. A., **Bastazini, V. A. G.**, Gianuca, A., & Matthews, T. J. **[The spatial scaling of multiple dimensions of functional diversity in habitat islands](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70158). Functional Ecology** 39(11): 3164-3180.
 
-- Hofmann, G. S., Weber, E., **Bastazini, V. A. G.**, Rossatto, D.R., Franco, A.C., Granada, C. E., Kaminski, L. A., Ubaid, F. K., Leandro-Silva, V., Borges- Martins, M., Silva, R. C., Cardoso, M. F., Oliveira, L. F. B., Aquino, F. E., & Pereira, M. J. R. **[Climate change in the Brazilian Cerrado: A looming threat to terrestrial biodiversity](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70022). Wiley Interdisciplinary Reviews: Climate Change**, 16(5), e70022.
+- Hofmann, G. S., Weber, E., **Bastazini, V. A. G.**, Rossatto, D.R., Franco, A.C., Granada, C. E., Kaminski, L. A., Ubaid, F. K., Leandro-Silva, V., Borges- Martins, M., Silva, R. C., Cardoso, M. F., Oliveira, L. F. B., Aquino, F. E., & Pereira, M. J. R. **[Climate change in the Brazilian Cerrado: A looming threat to terrestrial biodiversity](https://wires.onlinelibrary.wiley.com/doi/10.1002/wcc.70022). Wiley Interdisciplinary Reviews: Climate Change** 16(5): e70022.
 
 
--  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A., & Ascensão, F. **[Mapping global shipless areas and conflict zones between shipping and large marine vertebrates](https://www.sciencedirect.com/science/article/pii/S0006320725004689). Biological Conservation**, 311, 111431. 
+-  Mestre, F., D'Amico, M., **Bastazini, V. A. G.**, Assis, J., Jacinto, D., Marçalo, A., & Ascensão, F. **[Mapping global shipless areas and conflict zones between shipping and large marine vertebrates](https://www.sciencedirect.com/science/article/pii/S0006320725004689). Biological Conservation** 311: 111431. 
 
-- **Bastazini, V. A. G. [From pairwise interactions to community structure: A trait-based approach to inferring assembly mechanisms across spatial scales](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70138). Functional Ecology**, 39(9), 2174–2176.
+- **Bastazini, V. A. G. [From pairwise interactions to community structure: A trait-based approach to inferring assembly mechanisms across spatial scales](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2435.70138). Functional Ecology** 39(9): 2174–2176.
 
-- Mestre, F., **Bastazini, V. A. G.**, & Ascensão, F. **[Effects of road density on regional food webs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70007). Conservation Biology** 39(4), e70007.
+- Mestre, F., **Bastazini, V. A. G.**, & Ascensão, F. **[Effects of road density on regional food webs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.70007). Conservation Biology** 39(4): e70007.
 
-- **Bastazini, V. A. G.**, & Hofmann, G.S. **[Southern Brazil’s 2024 floods: Causes, impacts, and how wetlands can help mitigate extreme climate disasters](https://zenodo.org/records/14751055). SILNews - The International Society of Limnology Newsletter** 85, 6-7.
+- **Bastazini, V. A. G.**, & Hofmann, G.S. **[Southern Brazil’s 2024 floods: Causes, impacts, and how wetlands can help mitigate extreme climate disasters](https://zenodo.org/records/14751055). SILNews - The International Society of Limnology Newsletter** 85: 6-7.
 
-- Franz, I., Chiarini, E., **Bastazini, V. A. G.** , Boldrini, I. I., & Fonatna, C. **[Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha](https://link.springer.com/article/10.1007/s43388-024-00217-w). Ornithology Research** 33(12), 1-9.
+- Franz, I., Chiarini, E., **Bastazini, V. A. G.** , Boldrini, I. I., & Fonatna, C. **[Nest site selection by a grassland-dependent Neotropical passerine, the Tawny-bellied Seedeater Sporophila hypoxantha](https://link.springer.com/article/10.1007/s43388-024-00217-w). Ornithology Research** 33(12): 1-9.
 
 ### 2024
 
-- González-del-Pliego, P., Galiana, N., González-Trujillo, J. D., Mestre, F., Araújo, M. B., & **Bastazini, V. A. G. [Are threatened species important for glueing interaction networks together?](https://www.sciencedirect.com/science/article/pii/S2530064424000531) Perspectives in Ecology and Conservation** 22(4), 342-347.
+- González-del-Pliego, P., Galiana, N., González-Trujillo, J. D., Mestre, F., Araújo, M. B., & **Bastazini, V. A. G. [Are threatened species important for glueing interaction networks together?](https://www.sciencedirect.com/science/article/pii/S2530064424000531) Perspectives in Ecology and Conservation** 22(4): 342-347.
 
-- Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., & **Bastazini, V. A. G. [Coping with Collapse: Functional Robustness of Coral-Reef Fish Network to Simulated Cascade Extinction](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17513#). Global Change Biology**, 30, e17513.
+- Luza, A.L., Bender, M.G., Ferreira, C.E.L., Floeter, S.R., Francini-Filho, R.B., Longo, G.O., Pinheiro, H.T., Quimbayo, J.P., & **Bastazini, V. A. G. [Coping with Collapse: Functional Robustness of Coral-Reef Fish Network to Simulated Cascade Extinction](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17513#). Global Change Biology** 30: e17513.
 
-- Bergamin, R. S., **Bastazini, V. A. G.**, Esquivel-Muelbert, A., Bordin, K., Klipel, J., Debastiani, V., Vibrans, A., Loyola, R., & Müller, S. **[Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change](https://doi.org/10.1111/jvs.13289)**. **Journal of Vegetation Science**, 35(4), e13289.
+- Bergamin, R. S., **Bastazini, V. A. G.**, Esquivel-Muelbert, A., Bordin, K., Klipel, J., Debastiani, V., Vibrans, A., Loyola, R., & Müller, S. **[Elevational shifts in tree community composition in the Brazilian Atlantic Forest related to climate change](https://doi.org/10.1111/jvs.13289)**. **Journal of Vegetation Science** 35(4): e13289.
 
 - Gonçalves, M., **Bastazini, V. A. G.**, Andretti, C., Lanés, L. E., & Volcan, M. **[Ecologia e conservação de ecossistemas aquáticos do sul do Brasil](https://www.researchgate.net/publication/385444484_ECOLOGIA_E_CONSERVACAO_DE_ECOSSISTEMAS_AQUATICOS_DO_SUL_DO_BRASIL)**. Editora USEB, 236p. ISBN: 978-85-89985-39-0
 
@@ -51,94 +51,94 @@ title: "Publications"
 
 ### 2023
 
-- Biz, L., **Bastazini, V. A. G.**, Carvalho, F., & Pereira, M. J. R. **[Network and parasitological analyses reveal latitudinal gradient in bats-ectoparasitic flies interactions across the Neotropic](https://doi.org/10.1002/ece3.10527)**. **Ecology and Evolution**, 13(9), e10527.
+- Biz, L., **Bastazini, V. A. G.**, Carvalho, F., & Pereira, M. J. R. **[Network and parasitological analyses reveal latitudinal gradient in bats-ectoparasitic flies interactions across the Neotropic](https://doi.org/10.1002/ece3.10527)**. **Ecology and Evolution** 13(9): e10527.
 
 ### 2022 
 
-- **Bastazini, V. A. G.**, Debastiani, V., Cappelatti, L., Guimarães, P., & Pillar, V. P. **[The role of evolutionary modes for trait-based cascades in mutualistic networks](https://doi.org/10.1016/j.ecolmodel.2022.109983)**. **Ecological Modelling**, 470, 109983.
+- **Bastazini, V. A. G.**, Debastiani, V., Cappelatti, L., Guimarães, P., & Pillar, V. P. **[The role of evolutionary modes for trait-based cascades in mutualistic networks](https://doi.org/10.1016/j.ecolmodel.2022.109983)**. **Ecological Modelling** 470: 109983.
 
-- Galiana, N., Lurgi, M., **Bastazini, V. A. G.**, Bosch, J., Cagnolo, L., Cazelles, K., Claramunt-López, B., Emer, C., Fortin, M., Grass, I., Hernández-Castellano, C., Jauker, F., Leroux, S. J., McCann, K., McLeod, A. M., Montoya, D., Mulder, C., Osorio-Canadas, S., Reverté, S., Rodrigo, A., Steffan-Dewenter, I., Traveset, A., Valverde, S., Vázquez, D. P., Wood, S. A., Gravel, D., Roslin, T., Thuiller, W., & Montoya, J. M. **[Ecological network complexity scales with area](https://www.nature.com/articles/s41559-021-01644-4)**. **Nature Ecology and Evolution**, 6, 307–314.
+- Galiana, N., Lurgi, M., **Bastazini, V. A. G.**, Bosch, J., Cagnolo, L., Cazelles, K., Claramunt-López, B., Emer, C., Fortin, M., Grass, I., Hernández-Castellano, C., Jauker, F., Leroux, S. J., McCann, K., McLeod, A. M., Montoya, D., Mulder, C., Osorio-Canadas, S., Reverté, S., Rodrigo, A., Steffan-Dewenter, I., Traveset, A., Valverde, S., Vázquez, D. P., Wood, S. A., Gravel, D., Roslin, T., Thuiller, W., & Montoya, J. M. **[Ecological network complexity scales with area](https://www.nature.com/articles/s41559-021-01644-4)**. **Nature Ecology and Evolution** 6: 307–314.
 
-- Bergamin, R. S., Ascensão, F., Capinha, C., **Bastazini**, V. A. G., Andrade, B. O., Boldrini, I. I., Lezama, F., Altesor, A., Perelman, S., & Overbeck, G. E. **[Native and alien grassland diversity respond differently to environmental and anthropogenic drivers across spatial scales]( https://doi.org/10.1111/jvs.13133)**. **Journal of Vegetation Science**, 33(3), e13133.
+- Bergamin, R. S., Ascensão, F., Capinha, C., **Bastazini**, V. A. G., Andrade, B. O., Boldrini, I. I., Lezama, F., Altesor, A., Perelman, S., & Overbeck, G. E. **[Native and alien grassland diversity respond differently to environmental and anthropogenic drivers across spatial scales]( https://doi.org/10.1111/jvs.13133)**. **Journal of Vegetation Science** 33(3): e13133.
 
-- Gonçalves, L. O., Kindel, A., **Bastazini, V. A. G.**, & Teixeira, F. Z. **[Mainstreaming ecological connectivity in road environmental impact assessments: A long way to go](https://doi.org/10.1080/14615517.2022.2099727)**. **Impact Assessment and Project Appraisal**, 40(6), 475-480.
+- Gonçalves, L. O., Kindel, A., **Bastazini, V. A. G.**, & Teixeira, F. Z. **[Mainstreaming ecological connectivity in road environmental impact assessments: A long way to go](https://doi.org/10.1080/14615517.2022.2099727)**. **Impact Assessment and Project Appraisal** 40(6): 475-480.
 
 ### 2021
 
-- Debastiani, V., **Bastazini, V. A. G.**, & Pillar, V. P. **[Phylogenetic uncertainty and the inference of patterns in community ecology and comparative studies](https://link.springer.com/article/10.1007/s00442-021-04972-1)**. **Oecologia**, 196, 633–647.
+- Debastiani, V., **Bastazini, V. A. G.**, & Pillar, V. P. **[Phylogenetic uncertainty and the inference of patterns in community ecology and comparative studies](https://link.springer.com/article/10.1007/s00442-021-04972-1)**. **Oecologia** 196: 633–647.
 
-- Debastiani, V., **Bastazini, V. A. G.**, & Pillar, V. P. **[Using phylogenetic information to impute missing functional trait values in ecological databases](https://www.sciencedirect.com/science/article/abs/pii/S1574954121001060)**. **Ecological Informatics**, 63, 101315.
+- Debastiani, V., **Bastazini, V. A. G.**, & Pillar, V. P. **[Using phylogenetic information to impute missing functional trait values in ecological databases](https://www.sciencedirect.com/science/article/abs/pii/S1574954121001060)**. **Ecological Informatics** 63: 101315.
 
-- **Bastazini, V. A. G.**, Galiana, N., Hillebrandt, H., Estiartes, M., Ogayas, R., Peñuelas, J., Sommer, U., & Montoya, J. M. **[The impact of climate warming on species diversity across scales: Lessons from experimental meta-ecosystems]( https://doi.org/10.1111/geb.13308)**. **Global Ecology and Biogeography**, 30(7), 1545-1554.
+- **Bastazini, V. A. G.**, Galiana, N., Hillebrandt, H., Estiartes, M., Ogayas, R., Peñuelas, J., Sommer, U., & Montoya, J. M. **[The impact of climate warming on species diversity across scales: Lessons from experimental meta-ecosystems]( https://doi.org/10.1111/geb.13308)**. **Global Ecology and Biogeography** 30(7): 1545-1554.
 
 ### 2020
 
-- Dias, R. A., **Bastazini, V. A. G.**, Kock, B., Bonow, F. C., Sanyvan, M. S., & Gianuca, A. T. **[Species richness and patterns of overdispersion, clustering and randomness shape phylogenetic and functional diversity-area relationships in habitat islands](https://doi.org/10.1111/jbi.13849)**. **Journal of Biogeography**, 47(8), 1638-1648.
+- Dias, R. A., **Bastazini, V. A. G.**, Kock, B., Bonow, F. C., Sanyvan, M. S., & Gianuca, A. T. **[Species richness and patterns of overdispersion, clustering and randomness shape phylogenetic and functional diversity-area relationships in habitat islands](https://doi.org/10.1111/jbi.13849)**. **Journal of Biogeography** 47(8): 1638-1648.
 
-- Vizentin-Bugoni, J., Debastiani, V. J., **Bastazini, V. A. G.**, Maruyama, P. K., & Sperry, J. H. **[Including rewiring in the estimation of the robustness of mutualistic networks](https://doi.org/10.1111/2041-210X.13306)**. **Methods in Ecology and Evolution**, 11(1), 106-116.
+- Vizentin-Bugoni, J., Debastiani, V. J., **Bastazini, V. A. G.**, Maruyama, P. K., & Sperry, J. H. **[Including rewiring in the estimation of the robustness of mutualistic networks](https://doi.org/10.1111/2041-210X.13306)**. **Methods in Ecology and Evolution** 11(1): 106-116.
 
-- Nagy-Reis, M. B., [...], **Bastazini, V. A. G.**, et al. **[NEOTROPICAL CARNIVORES: a dataset of occurrence of carnivores in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3128)**. **Ecology**, 101(11), e03128.
+- Nagy-Reis, M. B., [...], **Bastazini, V. A. G.**, et al. **[NEOTROPICAL CARNIVORES: a dataset of occurrence of carnivores in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3128)**. **Ecology** 101(11): e03128.
 
-- Rosas, C., [...], **Bastazini, V. A. G.**, et al. **[NEOTROPICAL ALIEN MAMMALS: a dataset of occurrence and abundance of alien mammals in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3115)**. **Ecology**, 101(11), e03115.
+- Rosas, C., [...], **Bastazini, V. A. G.**, et al. **[NEOTROPICAL ALIEN MAMMALS: a dataset of occurrence and abundance of alien mammals in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.3115)**. **Ecology** 101(11): e03115.
 
 ### 2019
 
-- **Bastazini, V. A. G.**, Debastiani, V., Azambuja, B., Guimarães, P., & Pillar, V. **[Loss of generalist plant species and functional diversity decreases the robustness of a seed dispersal network](https://doi.org/10.1017/S0376892918000334)**. **Environmental Conservation**, 46(1), 52-58.
+- **Bastazini, V. A. G.**, Debastiani, V., Azambuja, B., Guimarães, P., & Pillar, V. **[Loss of generalist plant species and functional diversity decreases the robustness of a seed dispersal network](https://doi.org/10.1017/S0376892918000334)**. **Environmental Conservation** 46(1): 52-58.
 
-- Santos, P., [...], Bastazini, V. A. G., et al. **[NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2663)**. **Ecology**, 100(7), e02663.
+- Santos, P., [...], Bastazini, V. A. G., et al. **[NEOTROPICAL XENARTHRANS: a data set of occurrence of xenarthran species in the Neotropics](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.2663)**. **Ecology** 100(7): e02663.
 
 ### 2018
 
-- Casas, G., **Bastazini, V. A. G.**, Debastiani, V. J., & Pillar, V. D. P. **[Assessing sampling sufficiency of network metrics using bootstrap](https://doi.org/10.1016/j.ecocom.2018.09.005)**. **Ecological Complexity**, 36, 268-275.
+- Casas, G., **Bastazini, V. A. G.**, Debastiani, V. J., & Pillar, V. D. P. **[Assessing sampling sufficiency of network metrics using bootstrap](https://doi.org/10.1016/j.ecocom.2018.09.005)**. **Ecological Complexity** 36: 268-275.
 
-- Gonçalves, L. O., Alvares, D. J., Teixeira, F. Z., Schuck, G., Coelho, I. P., Esperandio, I. B., Anza, J., Beduschi, J., **Bastazini, V. A. G.**, & Kindel, A. **[Reptile road-kills in Southern Brazil: Composition, hot moments and hotspots](https://doi.org/10.1016/j.scitotenv.2017.09.053)**. **Science of the Total Environment**, 615, 1438-1445.
+- Gonçalves, L. O., Alvares, D. J., Teixeira, F. Z., Schuck, G., Coelho, I. P., Esperandio, I. B., Anza, J., Beduschi, J., **Bastazini, V. A. G.**, & Kindel, A. **[Reptile road-kills in Southern Brazil: Composition, hot moments and hotspots](https://doi.org/10.1016/j.scitotenv.2017.09.053)**. **Science of the Total Environment** 615: 1438-1445.
 
-- Garcias, F. M., Stolz, J., Fernández, G. P., Kubiak, B. B., **Bastazini, V. A. G.**, & Freitas, T. R. O. **[Environmental predictors of demography in the tuco-tuco of the dunes (Ctenomys flamarioni)](http://www.scielo.org.ar/scielo.php?script=sci_abstract&pid=S0327-93832018000200004)**. **Mastozoología Neotropical**, 25(2), 293-304.
+- Garcias, F. M., Stolz, J., Fernández, G. P., Kubiak, B. B., **Bastazini, V. A. G.**, & Freitas, T. R. O. **[Environmental predictors of demography in the tuco-tuco of the dunes (Ctenomys flamarioni)](http://www.scielo.org.ar/scielo.php?script=sci_abstract&pid=S0327-93832018000200004)**. **Mastozoología Neotropical** 25(2): 293-304.
 
 ### 2017
 
-- **Bastazini, V. A. G.**, Abreu, P. M., Azambujo, B., Casas, G., Debastiani, V., Guimarães Jr, P. R., & Pillar, V. P. **[Untangling the tangled bank: A novel method for partitioning the effects of phylogenies and traits on ecological networks](https://link.springer.com/article/10.1007/s11692-017-9409-8)**. **Evolutionary Biology**, 44, 312–324.
+- **Bastazini, V. A. G.**, Abreu, P. M., Azambujo, B., Casas, G., Debastiani, V., Guimarães Jr, P. R., & Pillar, V. P. **[Untangling the tangled bank: A novel method for partitioning the effects of phylogenies and traits on ecological networks](https://link.springer.com/article/10.1007/s11692-017-9409-8)**. **Evolutionary Biology** 44: 312–324.
 
-- Dias, R. D., Gianuca, A., Vizentin-Bugoni, J., Bencke, G. A., & **Bastazini, V. A. G. [Livestock disturbance in southern Brazilian grasslands influences avian species diversity via turnover](https://link.springer.com/article/10.1007/s10531-017-1370-4)**. **Biodiversity and Conservation**, 26, 2473–2490.
+- Dias, R. D., Gianuca, A., Vizentin-Bugoni, J., Bencke, G. A., & **Bastazini, V. A. G. [Livestock disturbance in southern Brazilian grasslands influences avian species diversity via turnover](https://link.springer.com/article/10.1007/s10531-017-1370-4)**. **Biodiversity and Conservation** 26: 2473–2490.
 
-- Bergamin, R. S., **Bastazini, V. A. G**., Vélez-Martin, E., Debastiani, V., Zanini, K. J., Loyola, R., & Müller, S. C. **[Linking beta diversity patterns to protected areas: Lessons from the Brazilian Atlantic Forest](https://link.springer.com/article/10.1007/s10531-017-1315-y)**. **Biodiversity & Conservation**, 26, 1557–1568.
+- Bergamin, R. S., **Bastazini, V. A. G**., Vélez-Martin, E., Debastiani, V., Zanini, K. J., Loyola, R., & Müller, S. C. **[Linking beta diversity patterns to protected areas: Lessons from the Brazilian Atlantic Forest](https://link.springer.com/article/10.1007/s10531-017-1315-y)**. **Biodiversity & Conservation** 26: 1557–1568.
 
 ### 2016
 
-- Hofmann, G. S., Coelho, I. P., **Bastazini, V. A. G.**, Cordeiro, J. L. P., & Oliveira, L. F. B. **[Implications of climatic seasonality on activity patterns and resource use by sympatric peccaries in northern Pantanal](https://link.springer.com/article/10.1007/s00484-015-1040-8)**. **International Journal of Biometeorology**, 60, 421-433.
+- Hofmann, G. S., Coelho, I. P., **Bastazini, V. A. G.**, Cordeiro, J. L. P., & Oliveira, L. F. B. **[Implications of climatic seasonality on activity patterns and resource use by sympatric peccaries in northern Pantanal](https://link.springer.com/article/10.1007/s00484-015-1040-8)**. **International Journal of Biometeorology** 60: 421-433.
 
 ### 2015
 
-- Lefcheck, J., **Bastazini, V. A. G.**, & Griffin, J. N. **[Choosing and using traits in functional diversity research](https://doi.org/10.1017/S0376892914000307)**. **Environmental Conservation**, 42, 104-107.
+- Lefcheck, J., **Bastazini, V. A. G.**, & Griffin, J. N. **[Choosing and using traits in functional diversity research](https://doi.org/10.1017/S0376892914000307)**. **Environmental Conservation** 42: 104-107.
 
-- Carlucci, M. B., **Bastazini, V. A. G.**, Hofmann, G. S., Macedo, J. H., Iob, G., Duarte, L. D. S., Hartz, S. M., & Müller, S. C. **[Taxonomic and functional diversity of woody plant communities on opposing slopes of inselbergs in southern Brazil](https://doi.org/10.1080/17550874.2014.955544)**. **Plant Ecology and Diversity**, 8, 187-197.
+- Carlucci, M. B., **Bastazini, V. A. G.**, Hofmann, G. S., Macedo, J. H., Iob, G., Duarte, L. D. S., Hartz, S. M., & Müller, S. C. **[Taxonomic and functional diversity of woody plant communities on opposing slopes of inselbergs in southern Brazil](https://doi.org/10.1080/17550874.2014.955544)**. **Plant Ecology and Diversity** 8: 187-197.
 
 ### 2014
 
-- Duarte, L. S., Both, C., Carlucci, M., Debastiani, V., Cappelatti, L., Seger, G., Salengue, E., **Bastazini, V. A. G.**, Gonçalves, L. O., Brum, F. T., & Bernardo-Silva, J. **[Climate effects on amphibian distribution depend on phylogenetic scale and biogeography](https://doi.org/10.1111/geb.12089)**. **Global Ecology and Biogeography**, 23, 213-222.
+- Duarte, L. S., Both, C., Carlucci, M., Debastiani, V., Cappelatti, L., Seger, G., Salengue, E., **Bastazini, V. A. G.**, Gonçalves, L. O., Brum, F. T., & Bernardo-Silva, J. **[Climate effects on amphibian distribution depend on phylogenetic scale and biogeography](https://doi.org/10.1111/geb.12089)**. **Global Ecology and Biogeography** 23: 213-222.
 
-- Dias, R. A., Gianuca, A. T., & **Bastazini, V. A. G.** **[Bird-habitat associations in coastal rangelands of southern Brazil](https://doi.org/10.1590/1678-476620141042200208)**. **Iheringia - Série Zoologia**, 104, 200-208.
+- Dias, R. A., Gianuca, A. T., & **Bastazini, V. A. G.** **[Bird-habitat associations in coastal rangelands of southern Brazil](https://doi.org/10.1590/1678-476620141042200208)**. **Iheringia - Série Zoologia** 104: 200-208.
 
 ### 2013
 
-- Gianuca, A. T., **Bastazini, V. A. G.**, Dias, R. A., & Hernández, M. **[Independent and shared effects of environmental features and space driving avian community beta-diversity across a coastal gradient in southern Brazil](https://doi.org/10.1111/aec.12023)**. **Austral Ecology**, 38, 864–873.
+- Gianuca, A. T., **Bastazini, V. A. G.**, Dias, R. A., & Hernández, M. **[Independent and shared effects of environmental features and space driving avian community beta-diversity across a coastal gradient in southern Brazil](https://doi.org/10.1111/aec.12023)**. **Austral Ecology** 38: 864–873.
 
-- Dias, R. A., **Bastazini, V. A. G.**, Gonçalves, M. S. S., Bonow, F. C., & Müller, S. **[Shifts in composition of avian communities related to temperate-grassland afforestation in southeastern South America](https://doi.org/10.1590/S0073-47212013000100002)**. **Iheringia - Série Zoologia**, 103, 12-19.
+- Dias, R. A., **Bastazini, V. A. G.**, Gonçalves, M. S. S., Bonow, F. C., & Müller, S. **[Shifts in composition of avian communities related to temperate-grassland afforestation in southeastern South America](https://doi.org/10.1590/S0073-47212013000100002)**. **Iheringia - Série Zoologia** 103: 12-19.
 
-- Sousa, K. S., **Bastazini, V. A. G.**, & Colares, E. P. **[Feeding ecology of Lontra longicaudis in the lower Arroio Grande, southernmost Brazil](https://doi.org/10.1590/S0001-37652013005000014)**. **Anais da Academia Brasileira de Ciências**, 85, 285-294.
+- Sousa, K. S., **Bastazini, V. A. G.**, & Colares, E. P. **[Feeding ecology of Lontra longicaudis in the lower Arroio Grande, southernmost Brazil](https://doi.org/10.1590/S0001-37652013005000014)**. **Anais da Academia Brasileira de Ciências** 85: 285-294.
 
 - Hoffman, G. S., **Bastazini, V. A. G.**, Coelho, I. P., & Oliveira, L. F. B. **[Fauna da Reserva Particular do Patrimônio Natural SESC Pantanal: uma perspectiva através de armadilhas fotográficas](https://www.sescpantanal.com.br/arquivos/cadastro-itens/layout-6/arquivos/file-636004641363334343.pdf)**. Editora SESC, 55p. ISBN: 978-85-89336-99-4 
 
 ### 2012
 
-- Kasper, C. B., **Bastazini, V. A. G.**, Soares, J. B. G., & Freitas, T. R. O. **[Abundance of Conepatus chinga (Carnivora: Mephitidae) and other medium-sized mammals in grasslands of southern Brazil](https://doi.org/10.1590/S0073-47212012000300009)**. **Iheringia - Série Zoologia**, 102, 303-310.
+- Kasper, C. B., **Bastazini, V. A. G.**, Soares, J. B. G., & Freitas, T. R. O. **[Abundance of Conepatus chinga (Carnivora: Mephitidae) and other medium-sized mammals in grasslands of southern Brazil](https://doi.org/10.1590/S0073-47212012000300009)**. **Iheringia - Série Zoologia** 102: 303-310.
 
 ### 2009
 
-- Dias, R. A., Gonçalves, M. S. S., & **Bastazini, V. A. G.** **[First breeding record of the bay-capped wren-spinetail (Spartonoica maluroides) in Brazil, with nest and nestling descriptions and nesting behavior notes](https://www.scielo.br/j/isz/a/cj6wyRNdFRwF3kQyFFZBzgc/?lang=en&format=pdf). Iheringia - Série Zoologia**, 99, 449-455.
+- Dias, R. A., Gonçalves, M. S. S., & **Bastazini, V. A. G.** **[First breeding record of the bay-capped wren-spinetail (Spartonoica maluroides) in Brazil, with nest and nestling descriptions and nesting behavior notes](https://www.scielo.br/j/isz/a/cj6wyRNdFRwF3kQyFFZBzgc/?lang=en&format=pdf). Iheringia - Série Zoologia** 99: 449-455.
 
 ### 2008
 
-- Kasper, C. B., **Bastazini, V. A. G.**, Salvi, J., & Grillo, H. C. Z. **[Trophic ecology and the use of shelters and latrines by the Neotropical otter (Lontra longicaudis) in the Taquari Valley, Rio Grande do Sul, Brazil](https://doi.org/10.1590/S0073-47212008000400009)**. **Iheringia - Série Zoologia**, 98, 1-6.
+- Kasper, C. B., **Bastazini, V. A. G.**, Salvi, J., & Grillo, H. C. Z. **[Trophic ecology and the use of shelters and latrines by the Neotropical otter (Lontra longicaudis) in the Taquari Valley, Rio Grande do Sul, Brazil](https://doi.org/10.1590/S0073-47212008000400009)**. **Iheringia - Série Zoologia** 98: 1-6.
 
 ---
