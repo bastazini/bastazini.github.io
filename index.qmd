@@ -1,5 +1,6 @@
 ---
 title: "Vinicius Bastazini"
+subtitle: "<small>[Bonner Institute for Organismal Biology](https://www.biologie.uni-bonn.de/biob/de), [University of Bonn](https://www.uni-bonn.de/en)</small>"
 image: prof.png
 about:
   id: hero-heading
