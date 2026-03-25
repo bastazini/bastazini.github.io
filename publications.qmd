@@ -6,7 +6,7 @@ title: "Publications"
 
 ## In press
 
-- Dasoler, B., Teixeira, F., Kindel, A., Ascensão, F., & **Bastazini, V. A. G. Wildlife road crossings: A mechanistic trait- and landscape- based model. Ecological Modelling.**
+- Dasoler, B., Teixeira, F., Kindel, A., Ascensão, F., & **Bastazini, V. A. G. [Wildlife road crossings: A mechanistic trait- and landscape-based model](https://doi.org/10.1016/j.ecolmodel.2026.111579). Ecological Modelling.**
 
 - Mestre, F., Quiles, P., **Bastazini, V. A. G.**, & Ascensão, F. **Road effects on species interactions**. In D’Amico, M., Barrientos, R., & Ascensão, F. (Eds.), *[Road Ecology: Synthesis and Perspectives](https://link.springer.com/book/9783032166401)*. Springer.ISBNs: (hardcover) 978-3-032-16640-1, (softcover) 978-3-032-16643-2, (eBook) 978-3-032-16641-8.
 
