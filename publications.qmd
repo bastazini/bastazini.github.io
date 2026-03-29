@@ -14,7 +14,7 @@ title: "Publications"
 
 ### 2026
 
-- Dasoler, B., Teixeira, F., Kindel, A., Ascensão, F., & **Bastazini, V. A. G. [Wildlife road crossings: A mechanistic trait- and landscape-based model](https://doi.org/10.1016/j.ecolmodel.2026.111579). Ecological Modelling.** 516: 111579.
+- Dasoler, B., Teixeira, F., Kindel, A., Ascensão, F., & **Bastazini, V. A. G. [Wildlife road crossings: A mechanistic trait- and landscape-based model](https://doi.org/10.1016/j.ecolmodel.2026.111579). Ecological Modelling** 516: 111579.
 
 - Mestre, F., Galiana, N., **Bastazini, V. A. G.**, González-del-Pliego, P., & Araújo, M. B. **[Contrasting roles of threatened and non-threatened species in European food webs](https://doi.org/10.1111/ddi.70133). Diversity & Distributions** 32(2): e70133.
 
