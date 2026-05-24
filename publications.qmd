@@ -4,11 +4,9 @@ title: "Publications"
 > 📄 *If you'd like a copy of any of these publications, feel free to [contact me](mailto:bastazini.vinicius@gmail.com).*
 
 
-## In press
-
-- Mestre, F., & **Bastazini, V. A. G. [Metawebs as a tool to connect ecology and biogeography: A critical review](https://doi.org/10.1016/j.ecolmodel.2026.111674). Ecological Modelling** 111674.
-
 ## 2026
+
+- Mestre, F., & **Bastazini, V. A. G. [Metawebs as a tool to connect ecology and biogeography: A critical review](https://doi.org/10.1016/j.ecolmodel.2026.111674). Ecological Modelling** 519: 111674.
 
 - Dasoler, B., Teixeira, F., Kindel, A., Ascensão, F., & **Bastazini, V. A. G. [Wildlife road crossings: A mechanistic trait- and landscape-based model](https://doi.org/10.1016/j.ecolmodel.2026.111579). Ecological Modelling** 516: 111579.
 
