@@ -6,6 +6,9 @@ title: "Media"
 
 I am a maintainer and contributor to the blog **[Geekcologist: Ecology and Modelling](https://geekcologist.wordpress.com)**. In addition, I have written for a number of different media. 
 
+- **[O Cerrado brasileiro e as mudanças climáticas: ameaças à savana mais biodiversa do planeta](https://naturaemuseubiodiv.wordpress.com/2026/06/02/o-cerrado-brasileiro-e-as-mudancas-climaticas-ameacas-a-savana-mais-biodiversa-do-planeta/)**
+  *Naturae Digital*. **2026**.
+
 - **[Navigating the balance: Mapping shipless, preservation, and mitigation areas for marine biodiversity](https://transportecology.info/research/shipping-and-biodiversity)**
     *Transport Ecology*. **2025**.
 
