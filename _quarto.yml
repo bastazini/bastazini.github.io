@@ -8,9 +8,9 @@ website:
     left:
       - href: index.qmd
         text: About
+      - professional.qmd
       - publications.qmd
       - people.qmd
-      - professional.qmd
       - talks.qmd
       - media.qmd
 
