@@ -6,19 +6,6 @@ title: "Mentoring"
 ## Current Students
 
 
-::: {.columns}
-:::: {.column width="60%"}
-**Cumbi**  
-**2019 - **  
-
-I am a researcher focused on pheasant and squirrel ecology, exploring their behavior, especially their escape response time. I am also specialized in solving optimization problems, particularly those aimed at finding the best solutions for treat acquisition.
-::::
-
-:::: {.column width="40%"}
-<img src="Cumbi.png" alt="Cumbito" style="width:100%; max-width:150px;">
-::::
-:::
-
 ## Former Students
 - **[Johannes Albus Paschmanns](https://www.researchgate.net/profile/Johannes-Paschmanns)**  
   **2026**  
