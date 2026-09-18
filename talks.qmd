@@ -1,11 +1,19 @@
 ---
 title: "Talks"
 ---
+## Upcoming Talks
 
+- **Coping with collapse: How functional diversity, evolutionary history, and their loss shape ecological network robustness**  
+  *Rheinische Friedrich-Wilhelms-Universität Bonn & Leibniz Institute for the analysis of Biodiversity Change Biological Colloquium*, Bonn, Germany **Nov 2026**.
+  
+- **The Architecture of Collapse: Linking Species Extinction Risk to Network Fragility**  
+  *British Ecological Society Annual Meeting*, Birmingham, England **Dec 2026**
+
+## Past Talks
 - **Enfrentando o colapso: como a diversidade funcional e a evolução moldam a robustez das redes ecológicas**  
   *Federal University of Santa Catarina*, Florianopolis, Brazil **2025**.
   
-- **Functional robustness of reef fish networks to simulated coral extinction: A novel analytical approach**  
+- **Functional robustness of reef fish networks to simulated coral extinction: A novel analytical approach**
   *British Ecological Society Annual Meeting*, Liverpool, England **2024**.
   
 - **Coping with collapse: How functional diversity, evolutionary history, and their loss shape ecological network robustness**  
