@@ -3,7 +3,7 @@ title: "Talks"
 ---
 ## Upcoming Talks
 
-- **Coping with collapse: How functional diversity, evolutionary history, and their loss shape ecological network robustness**  
+- **The Architecture of Collapse: Linking Biodiversity Extinction Risk and Interaction Network Topology to Assess Ecological Fragility**  
   *Rheinische Friedrich-Wilhelms-Universität Bonn & Leibniz Institute for the analysis of Biodiversity Change Biological Colloquium*, Bonn, Germany **Nov 2026**.
   
 - **The Architecture of Collapse: Linking Species Extinction Risk to Network Fragility**  
