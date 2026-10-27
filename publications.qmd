@@ -3,9 +3,6 @@ title: "Publications"
 ---
 > 📄 *If you'd like a copy of any of these publications, feel free to [contact me](mailto:bastazini.vinicius@gmail.com).*
 
-## In press
-
-- Silva, J. C. F., Gonçalves, M. S. S., **Bastazini, V. A. G.**, & Dias, R. A. **[Influence of habitat structure and spatial configuration on bird abundance in wet grassland patches](https://doi.org/10.1007/s10531-026-03518-2). Biodiversity and Conservation.**
 
 ## 2027
 
@@ -16,6 +13,9 @@ title: "Publications"
 - Mestre, F., & **Bastazini, V. A. G. [Metawebs as a tool to connect ecology and biogeography: A critical review](https://doi.org/10.1016/j.ecolmodel.2026.111674). Ecological Modelling** 519: 111674.
 
 - Dasoler, B., Teixeira, F., Kindel, A., Ascensão, F., & **Bastazini, V. A. G. [Wildlife road crossings: A mechanistic trait- and landscape-based model](https://doi.org/10.1016/j.ecolmodel.2026.111579). Ecological Modelling** 516: 111579.
+
+- Silva, J. C. F., Gonçalves, M. S. S., **Bastazini, V. A. G.**, & Dias, R. A. **[Influence of habitat structure and spatial configuration on bird abundance in wet grassland patches](https://doi.org/10.1007/s10531-026-03518-2). Biodiversity and Conservation.** 35:310.
+
 
 - Mestre, F., Galiana, N., **Bastazini, V. A. G.**, González-del-Pliego, P., & Araújo, M. B. **[Contrasting roles of threatened and non-threatened species in European food webs](https://doi.org/10.1111/ddi.70133). Diversity and Distributions** 32(2): e70133.
 
