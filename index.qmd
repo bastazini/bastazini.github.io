@@ -7,7 +7,7 @@ about:
   template: trestles
   image-shape: rectangle
   links:
-    - icon: fa-bluesky
+    - icon: bluesky
       text: Bluesky
       href: https://bsky.app/profile/vinibastazini.bsky.social
     - icon: research-gate
@@ -16,7 +16,7 @@ about:
     - icon: github
       text: Github
       href: https://github.com/bastazini
-    - icon: graduation-cap
+    - icon: mortarboard
       text: Google Scholar
       href: https://scholar.google.com/citations?user=4X6LiBQAAAAJ&hl=pt-BR
     - icon: envelope
